@@ -59,7 +59,7 @@
         },
         {
           "source": "/",
-          "target": "/Areas/index",
+          "target": "/Locations/index",
           "text": "Locations"
         },
         {
@@ -81,199 +81,6 @@
           "source": "/",
           "target": "/People/Index",
           "text": "Index"
-        }
-      ],
-      "/Areas": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Stronghold",
-          "text": "Stronghold"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Cradle",
-          "text": "Cradle"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Ghost",
-          "text": "Ghost"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Leradel",
-          "text": "Leradel"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Myts",
-          "text": "Myts"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Indel",
-          "text": "Indel"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Rauthei",
-          "text": "Rauthei"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Thyme Wastes"
-        }
-      ],
-      "/Areas/Cradle": [
-        {
-          "source": "/Areas/Cradle",
-          "target": "/People/NPC/Canus",
-          "text": "Canus"
-        },
-        {
-          "source": "/Areas/Cradle",
-          "target": "/Organisations/The-Syndicate",
-          "text": "The Syndicate"
-        },
-        {
-          "source": "/Areas/Cradle",
-          "target": "/Organisations/Cradle-Snatchers",
-          "text": "Cradle Snatchers"
-        }
-      ],
-      "/Areas/Ghost": [
-        {
-          "source": "/Areas/Ghost",
-          "target": "/People/NPC/The-Marquis",
-          "text": "The Marquis"
-        },
-        {
-          "source": "/Areas/Ghost",
-          "target": "/People/NPC/Du-Pontifs",
-          "text": "Du Pontif's"
-        }
-      ],
-      "/Areas/Indel": [
-        {
-          "source": "/Areas/Indel",
-          "target": "/Organisations/Pussy-Bandits",
-          "text": "Pussy Bandits"
-        }
-      ],
-      "/Areas/Innadel": [
-        {
-          "source": "/Areas/Innadel",
-          "target": "/People/Gods/Eldath",
-          "text": "Eldath"
-        },
-        {
-          "source": "/Areas/Innadel",
-          "target": "/People/NPC/Percival",
-          "text": "Percival"
-        }
-      ],
-      "/Areas/Myts": [
-        {
-          "source": "/Areas/Myts",
-          "target": "/People/NPC/Minister-Rabaniar",
-          "text": "Minister Rabaniar"
-        },
-        {
-          "source": "/Areas/Myts",
-          "target": "/Organisations/The-Joy-Family",
-          "text": "The Joy Family"
-        },
-        {
-          "source": "/Areas/Myts",
-          "target": "/People/NPC/Breeze",
-          "text": "Breeze"
-        }
-      ],
-      "/Areas/Ofheise": [
-        {
-          "source": "/Areas/Ofheise",
-          "target": "/Areas/Rauthei",
-          "text": "Rauthei"
-        },
-        {
-          "source": "/Areas/Ofheise",
-          "target": "/People/Players/Ex-Players/Ellianas",
-          "text": "Ellianas"
-        }
-      ],
-      "/Areas/Stronghold": [
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/Organisations/Cradle-Snatchers",
-          "text": "Cradle Snatchers"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Percival",
-          "text": "Percival"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Pink-Panther",
-          "text": "Pink Panther"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
-          "text": "Geralt of Rivania"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Corellien",
-          "text": "Corellien"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Merryweather",
-          "text": "Merryweather"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Ratkin",
-          "text": "Ratkin"
-        },
-        {
-          "source": "/Areas/Stronghold",
-          "target": "/People/NPC/Cosine",
-          "text": "People/NPC/Cosine"
-        }
-      ],
-      "/Areas/Thyme-Wastes": [
-        {
-          "source": "/Areas/Thyme-Wastes",
-          "target": "/Organisations/The-Joy-Family",
-          "text": "The Joy Family"
         }
       ],
       "/Items/Dominus-Oraculum": [
@@ -300,6 +107,194 @@
           "source": "/Items/Malice",
           "target": "/People/Players/Daria",
           "text": "Daria"
+        }
+      ],
+      "/Locations": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Cradle",
+          "text": "Cradle"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Leradel",
+          "text": "Leradel"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        }
+      ],
+      "/Locations/Cradle": [
+        {
+          "source": "/Locations/Cradle",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/Locations/Cradle",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Locations/Cradle",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        }
+      ],
+      "/Locations/Ghost": [
+        {
+          "source": "/Locations/Ghost",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Locations/Ghost",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        }
+      ],
+      "/Locations/Indel": [
+        {
+          "source": "/Locations/Indel",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/Locations/Innadel": [
+        {
+          "source": "/Locations/Innadel",
+          "target": "/People/Gods/Eldath",
+          "text": "Eldath"
+        },
+        {
+          "source": "/Locations/Innadel",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        }
+      ],
+      "/Locations/Myts": [
+        {
+          "source": "/Locations/Myts",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Locations/Myts",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        },
+        {
+          "source": "/Locations/Myts",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        }
+      ],
+      "/Locations/Ofheise": [
+        {
+          "source": "/Locations/Ofheise",
+          "target": "/Locations/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Locations/Ofheise",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        }
+      ],
+      "/Locations/Stronghold": [
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Pink-Panther",
+          "text": "Pink Panther"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Merryweather",
+          "text": "Merryweather"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Ratkin",
+          "text": "Ratkin"
+        },
+        {
+          "source": "/Locations/Stronghold",
+          "target": "/People/NPC/Cosine",
+          "text": "People/NPC/Cosine"
+        }
+      ],
+      "/Locations/Thyme-Wastes": [
+        {
+          "source": "/Locations/Thyme-Wastes",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
         }
       ],
       "/Organisations": [
@@ -423,7 +418,7 @@
       "/Organisations/Octopus-Tattoo-Cathuwu": [
         {
           "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Areas/Innadel",
+          "target": "/Locations/Innadel",
           "text": "Innadel"
         },
         {
@@ -433,15 +428,15 @@
         },
         {
           "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Areas/Innadel",
+          "target": "/Locations/Innadel",
           "text": "Innadel"
         }
       ],
       "/Organisations/Pussy-Bandits": [
         {
           "source": "/Organisations/Pussy-Bandits",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Areas/Thyme Wastes"
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Locations/Thyme Wastes"
         },
         {
           "source": "/Organisations/Pussy-Bandits",
@@ -452,12 +447,12 @@
       "/Organisations/The-Joy-Family": [
         {
           "source": "/Organisations/The-Joy-Family",
-          "target": "/Areas/Myts",
+          "target": "/Locations/Myts",
           "text": "Myts"
         },
         {
           "source": "/Organisations/The-Joy-Family",
-          "target": "/Areas/Thyme-Wastes",
+          "target": "/Locations/Thyme-Wastes",
           "text": "Thyme Wastes"
         }
       ],
@@ -540,15 +535,15 @@
       "/Other/Teleportation-Locations": [
         {
           "source": "/Other/Teleportation-Locations",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         }
       ],
       "/Other/Unknowns": [
         {
           "source": "/Other/Unknowns",
-          "target": "/Areas/Innadel",
-          "text": "Areas/Innadel"
+          "target": "/Locations/Innadel",
+          "text": "Locations/Innadel"
         },
         {
           "source": "/Other/Unknowns",
@@ -562,8 +557,8 @@
         },
         {
           "source": "/Other/Unknowns",
-          "target": "/Areas/Innadel",
-          "text": "Areas/Innadel"
+          "target": "/Locations/Innadel",
+          "text": "Locations/Innadel"
         }
       ],
       "/People/Gods/Lady-Ravana": [
@@ -812,7 +807,7 @@
       "/People/NPC/Breeze": [
         {
           "source": "/People/NPC/Breeze",
-          "target": "/Areas/Myts",
+          "target": "/Locations/Myts",
           "text": "Myts"
         },
         {
@@ -824,7 +819,7 @@
       "/People/NPC/Brior": [
         {
           "source": "/People/NPC/Brior",
-          "target": "/Areas/Thyme-Wastes",
+          "target": "/Locations/Thyme-Wastes",
           "text": "Thyme Wastes"
         },
         {
@@ -848,7 +843,7 @@
       "/People/NPC/Du-Pontifs": [
         {
           "source": "/People/NPC/Du-Pontifs",
-          "target": "/Areas/Ghost.md",
+          "target": "/Locations/Ghost.md",
           "text": "Bathumhold"
         }
       ],
@@ -862,7 +857,7 @@
       "/People/NPC/General-Howlington": [
         {
           "source": "/People/NPC/General-Howlington",
-          "target": "/Areas/Ghost",
+          "target": "/Locations/Ghost",
           "text": "Ghost"
         },
         {
@@ -881,7 +876,7 @@
       "/People/NPC/La-Qua": [
         {
           "source": "/People/NPC/La-Qua",
-          "target": "/Areas/Innadel.md",
+          "target": "/Locations/Innadel.md",
           "text": "Badger Hill"
         },
         {
@@ -919,28 +914,28 @@
       "/People/NPC/Minister-Rabaniar": [
         {
           "source": "/People/NPC/Minister-Rabaniar",
-          "target": "/Areas/Myts",
+          "target": "/Locations/Myts",
           "text": "Myts"
         }
       ],
       "/People/NPC/Murray-Destroyer-of-Worlds": [
         {
           "source": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "target": "/Areas/Ghost",
+          "target": "/Locations/Ghost",
           "text": "Ghost"
         }
       ],
       "/People/NPC/Percival": [
         {
           "source": "/People/NPC/Percival",
-          "target": "/Areas/Innadel.md",
+          "target": "/Locations/Innadel.md",
           "text": "Badger Hill"
         }
       ],
       "/People/NPC/Pink-Panther": [
         {
           "source": "/People/NPC/Pink-Panther",
-          "target": "/Areas/Stronghold",
+          "target": "/Locations/Stronghold",
           "text": "Stronghold"
         }
       ],
@@ -971,12 +966,12 @@
         },
         {
           "source": "/People/NPC/Saraki",
-          "target": "/Areas/Elunore",
+          "target": "/Locations/Elunore",
           "text": "Elunore"
         },
         {
           "source": "/People/NPC/Saraki",
-          "target": "/Areas/Cradle",
+          "target": "/Locations/Cradle",
           "text": "Cradle"
         }
       ],
@@ -1009,7 +1004,7 @@
       "/People/Players/Ex-Players/Batflap": [
         {
           "source": "/People/Players/Ex-Players/Batflap",
-          "target": "/Areas/Tarvern-of-Forever",
+          "target": "/Locations/Tarvern-of-Forever",
           "text": "Tarvern of Forever"
         }
       ],
@@ -1080,12 +1075,12 @@
       "/People/Players/Qidan": [
         {
           "source": "/People/Players/Qidan",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         },
         {
           "source": "/People/Players/Qidan",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         },
         {
@@ -1107,17 +1102,17 @@
       "/Sessions/Session-1": [
         {
           "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel",
+          "target": "/Locations/Innadel",
           "text": "Innadel"
         },
         {
           "source": "/Sessions/Session-1",
-          "target": "/Areas/Leradel",
+          "target": "/Locations/Leradel",
           "text": "Leradel"
         },
         {
           "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel",
+          "target": "/Locations/Innadel",
           "text": "Innadel"
         },
         {
@@ -1132,12 +1127,12 @@
         },
         {
           "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel.md",
+          "target": "/Locations/Innadel.md",
           "text": "Badger Hill"
         },
         {
           "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel.md",
+          "target": "/Locations/Innadel.md",
           "text": "Badger Hill"
         },
         {
@@ -1186,7 +1181,7 @@
         },
         {
           "source": "/Sessions/Session-11",
-          "target": "/Areas/Indel",
+          "target": "/Locations/Indel",
           "text": "Indel"
         },
         {
@@ -1198,7 +1193,7 @@
       "/Sessions/Session-2": [
         {
           "source": "/Sessions/Session-2",
-          "target": "/Areas/Innadel.md",
+          "target": "/Locations/Innadel.md",
           "text": "Badger Hill"
         },
         {
@@ -1223,17 +1218,17 @@
         },
         {
           "source": "/Sessions/Session-2",
-          "target": "/Areas/Elunore",
+          "target": "/Locations/Elunore",
           "text": "Elunore"
         },
         {
           "source": "/Sessions/Session-2",
-          "target": "/Areas/Stronghold",
+          "target": "/Locations/Stronghold",
           "text": "Stronghold"
         },
         {
           "source": "/Sessions/Session-2",
-          "target": "/Areas/Elunore",
+          "target": "/Locations/Elunore",
           "text": "Elunore"
         },
         {
@@ -1260,12 +1255,12 @@
       "/Sessions/Session-3": [
         {
           "source": "/Sessions/Session-3",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/Areas/Ghost",
+          "target": "/Locations/Ghost",
           "text": "Ghost"
         },
         {
@@ -1280,7 +1275,7 @@
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         },
         {
@@ -1290,7 +1285,7 @@
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/Areas/Rauthei",
+          "target": "/Locations/Rauthei",
           "text": "Rauthei"
         },
         {
@@ -1341,7 +1336,7 @@
       "/Sessions/Session-6": [
         {
           "source": "/Sessions/Session-6",
-          "target": "/Areas/Ofheise",
+          "target": "/Locations/Ofheise",
           "text": "Ofheise"
         },
         {
@@ -1450,296 +1445,6 @@
           "text": "Archi"
         }
       ],
-      "/Areas/Cradle": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Cradle",
-          "text": "Cradle"
-        },
-        {
-          "source": "/People/NPC/Saraki",
-          "target": "/Areas/Cradle",
-          "text": "Cradle"
-        }
-      ],
-      "/Areas/Elunore": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/People/NPC/Saraki",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/Sessions/Session-2",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        },
-        {
-          "source": "/Sessions/Session-2",
-          "target": "/Areas/Elunore",
-          "text": "Elunore"
-        }
-      ],
-      "/Areas/Ghost": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Ghost",
-          "text": "Ghost"
-        },
-        {
-          "source": "/People/NPC/General-Howlington",
-          "target": "/Areas/Ghost",
-          "text": "Ghost"
-        },
-        {
-          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "target": "/Areas/Ghost",
-          "text": "Ghost"
-        },
-        {
-          "source": "/Sessions/Session-3",
-          "target": "/Areas/Ghost",
-          "text": "Ghost"
-        }
-      ],
-      "/Areas/Ghost.md": [
-        {
-          "source": "/People/NPC/Du-Pontifs",
-          "target": "/Areas/Ghost.md",
-          "text": "Bathumhold"
-        }
-      ],
-      "/Areas/Indel": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Indel",
-          "text": "Indel"
-        },
-        {
-          "source": "/Sessions/Session-11",
-          "target": "/Areas/Indel",
-          "text": "Indel"
-        }
-      ],
-      "/Areas/Innadel": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Other/Unknowns",
-          "target": "/Areas/Innadel",
-          "text": "Areas/Innadel"
-        },
-        {
-          "source": "/Other/Unknowns",
-          "target": "/Areas/Innadel",
-          "text": "Areas/Innadel"
-        },
-        {
-          "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel",
-          "text": "Innadel"
-        }
-      ],
-      "/Areas/Innadel.md": [
-        {
-          "source": "/People/NPC/La-Qua",
-          "target": "/Areas/Innadel.md",
-          "text": "Badger Hill"
-        },
-        {
-          "source": "/People/NPC/Percival",
-          "target": "/Areas/Innadel.md",
-          "text": "Badger Hill"
-        },
-        {
-          "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel.md",
-          "text": "Badger Hill"
-        },
-        {
-          "source": "/Sessions/Session-1",
-          "target": "/Areas/Innadel.md",
-          "text": "Badger Hill"
-        },
-        {
-          "source": "/Sessions/Session-2",
-          "target": "/Areas/Innadel.md",
-          "text": "Badger Hill"
-        }
-      ],
-      "/Areas/Leradel": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Leradel",
-          "text": "Leradel"
-        },
-        {
-          "source": "/Sessions/Session-1",
-          "target": "/Areas/Leradel",
-          "text": "Leradel"
-        }
-      ],
-      "/Areas/Myts": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Myts",
-          "text": "Myts"
-        },
-        {
-          "source": "/Organisations/The-Joy-Family",
-          "target": "/Areas/Myts",
-          "text": "Myts"
-        },
-        {
-          "source": "/People/NPC/Breeze",
-          "target": "/Areas/Myts",
-          "text": "Myts"
-        },
-        {
-          "source": "/People/NPC/Minister-Rabaniar",
-          "target": "/Areas/Myts",
-          "text": "Myts"
-        }
-      ],
-      "/Areas/Ofheise": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/Other/Teleportation-Locations",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/People/Players/Qidan",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/People/Players/Qidan",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/Sessions/Session-3",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/Sessions/Session-3",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        },
-        {
-          "source": "/Sessions/Session-6",
-          "target": "/Areas/Ofheise",
-          "text": "Ofheise"
-        }
-      ],
-      "/Areas/Rauthei": [
-        {
-          "source": "/Areas/Ofheise",
-          "target": "/Areas/Rauthei",
-          "text": "Rauthei"
-        },
-        {
-          "source": "/Areas",
-          "target": "/Areas/Rauthei",
-          "text": "Rauthei"
-        },
-        {
-          "source": "/Sessions/Session-3",
-          "target": "/Areas/Rauthei",
-          "text": "Rauthei"
-        }
-      ],
-      "/Areas/Stronghold": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Stronghold",
-          "text": "Stronghold"
-        },
-        {
-          "source": "/People/NPC/Pink-Panther",
-          "target": "/Areas/Stronghold",
-          "text": "Stronghold"
-        },
-        {
-          "source": "/Sessions/Session-2",
-          "target": "/Areas/Stronghold",
-          "text": "Stronghold"
-        }
-      ],
-      "/Areas/Tarvern-of-Forever": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
-        },
-        {
-          "source": "/People/Players/Ex-Players/Batflap",
-          "target": "/Areas/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
-        }
-      ],
-      "/Areas/Thyme-Wastes": [
-        {
-          "source": "/Areas",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Thyme Wastes"
-        },
-        {
-          "source": "/Organisations/Pussy-Bandits",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Areas/Thyme Wastes"
-        },
-        {
-          "source": "/Organisations/The-Joy-Family",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Thyme Wastes"
-        },
-        {
-          "source": "/People/NPC/Brior",
-          "target": "/Areas/Thyme-Wastes",
-          "text": "Thyme Wastes"
-        }
-      ],
-      "/Areas/index": [
-        {
-          "source": "/",
-          "target": "/Areas/index",
-          "text": "Locations"
-        }
-      ],
       "/Breeze": [
         {
           "source": "/People/NPC/Blossom",
@@ -1802,6 +1507,291 @@
           "text": "Lady Ravana"
         }
       ],
+      "/Locations/Cradle": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Cradle",
+          "text": "Cradle"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Locations/Cradle",
+          "text": "Cradle"
+        }
+      ],
+      "/Locations/Elunore": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Locations/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Locations/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Locations/Elunore",
+          "text": "Elunore"
+        }
+      ],
+      "/Locations/Ghost": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/People/NPC/General-Howlington",
+          "target": "/Locations/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "target": "/Locations/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Locations/Ghost",
+          "text": "Ghost"
+        }
+      ],
+      "/Locations/Ghost.md": [
+        {
+          "source": "/People/NPC/Du-Pontifs",
+          "target": "/Locations/Ghost.md",
+          "text": "Bathumhold"
+        }
+      ],
+      "/Locations/Indel": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Locations/Indel",
+          "text": "Indel"
+        }
+      ],
+      "/Locations/Innadel": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Locations/Innadel",
+          "text": "Locations/Innadel"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Locations/Innadel",
+          "text": "Locations/Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Locations/Innadel",
+          "text": "Innadel"
+        }
+      ],
+      "/Locations/Innadel.md": [
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/Locations/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/People/NPC/Percival",
+          "target": "/Locations/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Locations/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Locations/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Locations/Innadel.md",
+          "text": "Badger Hill"
+        }
+      ],
+      "/Locations/Leradel": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Leradel",
+          "text": "Leradel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Locations/Leradel",
+          "text": "Leradel"
+        }
+      ],
+      "/Locations/Myts": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Locations/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/People/NPC/Breeze",
+          "target": "/Locations/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/People/NPC/Minister-Rabaniar",
+          "target": "/Locations/Myts",
+          "text": "Myts"
+        }
+      ],
+      "/Locations/Ofheise": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Other/Teleportation-Locations",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/Locations/Ofheise",
+          "text": "Ofheise"
+        }
+      ],
+      "/Locations/Rauthei": [
+        {
+          "source": "/Locations/Ofheise",
+          "target": "/Locations/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Locations",
+          "target": "/Locations/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Locations/Rauthei",
+          "text": "Rauthei"
+        }
+      ],
+      "/Locations/Stronghold": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/People/NPC/Pink-Panther",
+          "target": "/Locations/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Locations/Stronghold",
+          "text": "Stronghold"
+        }
+      ],
+      "/Locations/Tarvern-of-Forever": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        },
+        {
+          "source": "/People/Players/Ex-Players/Batflap",
+          "target": "/Locations/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        }
+      ],
+      "/Locations/Thyme-Wastes": [
+        {
+          "source": "/Locations",
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/Organisations/Pussy-Bandits",
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Locations/Thyme Wastes"
+        },
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/People/NPC/Brior",
+          "target": "/Locations/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        }
+      ],
+      "/Locations/index": [
+        {
+          "source": "/",
+          "target": "/Locations/index",
+          "text": "Locations"
+        }
+      ],
       "/Madame-Porcus": [
         {
           "source": "/Organisations/The-Syndicate",
@@ -1818,12 +1808,12 @@
       ],
       "/Organisations/Cradle-Snatchers": [
         {
-          "source": "/Areas/Cradle",
+          "source": "/Locations/Cradle",
           "target": "/Organisations/Cradle-Snatchers",
           "text": "Cradle Snatchers"
         },
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/Organisations/Cradle-Snatchers",
           "text": "Cradle Snatchers"
         },
@@ -1881,7 +1871,7 @@
       ],
       "/Organisations/Pussy-Bandits": [
         {
-          "source": "/Areas/Indel",
+          "source": "/Locations/Indel",
           "target": "/Organisations/Pussy-Bandits",
           "text": "Pussy Bandits"
         },
@@ -1908,12 +1898,12 @@
       ],
       "/Organisations/The-Joy-Family": [
         {
-          "source": "/Areas/Myts",
+          "source": "/Locations/Myts",
           "target": "/Organisations/The-Joy-Family",
           "text": "The Joy Family"
         },
         {
-          "source": "/Areas/Thyme-Wastes",
+          "source": "/Locations/Thyme-Wastes",
           "target": "/Organisations/The-Joy-Family",
           "text": "The Joy Family"
         },
@@ -1925,7 +1915,7 @@
       ],
       "/Organisations/The-Syndicate": [
         {
-          "source": "/Areas/Cradle",
+          "source": "/Locations/Cradle",
           "target": "/Organisations/The-Syndicate",
           "text": "The Syndicate"
         },
@@ -2017,7 +2007,7 @@
       ],
       "/People/Gods/Eldath": [
         {
-          "source": "/Areas/Innadel",
+          "source": "/Locations/Innadel",
           "target": "/People/Gods/Eldath",
           "text": "Eldath"
         },
@@ -2103,7 +2093,7 @@
       ],
       "/People/NPC/Breeze": [
         {
-          "source": "/Areas/Myts",
+          "source": "/Locations/Myts",
           "target": "/People/NPC/Breeze",
           "text": "Breeze"
         },
@@ -2147,7 +2137,7 @@
       ],
       "/People/NPC/Canus": [
         {
-          "source": "/Areas/Cradle",
+          "source": "/Locations/Cradle",
           "target": "/People/NPC/Canus",
           "text": "Canus"
         },
@@ -2164,7 +2154,7 @@
       ],
       "/People/NPC/Corellien": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Corellien",
           "text": "Corellien"
         },
@@ -2181,7 +2171,7 @@
       ],
       "/People/NPC/Cosine": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Cosine",
           "text": "People/NPC/Cosine"
         },
@@ -2193,7 +2183,7 @@
       ],
       "/People/NPC/Du-Pontifs": [
         {
-          "source": "/Areas/Ghost",
+          "source": "/Locations/Ghost",
           "target": "/People/NPC/Du-Pontifs",
           "text": "Du Pontif's"
         },
@@ -2346,7 +2336,7 @@
       ],
       "/People/NPC/Merryweather": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Merryweather",
           "text": "Merryweather"
         },
@@ -2358,7 +2348,7 @@
       ],
       "/People/NPC/Minister-Rabaniar": [
         {
-          "source": "/Areas/Myts",
+          "source": "/Locations/Myts",
           "target": "/People/NPC/Minister-Rabaniar",
           "text": "Minister Rabaniar"
         },
@@ -2407,12 +2397,12 @@
       ],
       "/People/NPC/Percival": [
         {
-          "source": "/Areas/Innadel",
+          "source": "/Locations/Innadel",
           "target": "/People/NPC/Percival",
           "text": "Percival"
         },
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Percival",
           "text": "Percival"
         },
@@ -2443,7 +2433,7 @@
       ],
       "/People/NPC/Pink-Panther": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Pink-Panther",
           "text": "Pink Panther"
         },
@@ -2479,7 +2469,7 @@
       ],
       "/People/NPC/Ratkin": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/NPC/Ratkin",
           "text": "Ratkin"
         },
@@ -2530,7 +2520,7 @@
       ],
       "/People/NPC/The-Marquis": [
         {
-          "source": "/Areas/Ghost",
+          "source": "/Locations/Ghost",
           "target": "/People/NPC/The-Marquis",
           "text": "The Marquis"
         },
@@ -2672,7 +2662,7 @@
       ],
       "/People/Players/Ex-Players/Ellianas": [
         {
-          "source": "/Areas/Ofheise",
+          "source": "/Locations/Ofheise",
           "target": "/People/Players/Ex-Players/Ellianas",
           "text": "Ellianas"
         },
@@ -2689,7 +2679,7 @@
       ],
       "/People/Players/Ex-Players/Geralt-of-Rivania": [
         {
-          "source": "/Areas/Stronghold",
+          "source": "/Locations/Stronghold",
           "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
           "text": "Geralt of Rivania"
         },
@@ -2935,181 +2925,6 @@
   },
   "links": [
     {
-      "source": "/Areas/Cradle",
-      "target": "/People/NPC/Canus",
-      "text": "Canus"
-    },
-    {
-      "source": "/Areas/Cradle",
-      "target": "/Organisations/The-Syndicate",
-      "text": "The Syndicate"
-    },
-    {
-      "source": "/Areas/Cradle",
-      "target": "/Organisations/Cradle-Snatchers",
-      "text": "Cradle Snatchers"
-    },
-    {
-      "source": "/Areas/Ghost",
-      "target": "/People/NPC/The-Marquis",
-      "text": "The Marquis"
-    },
-    {
-      "source": "/Areas/Ghost",
-      "target": "/People/NPC/Du-Pontifs",
-      "text": "Du Pontif's"
-    },
-    {
-      "source": "/Areas/Indel",
-      "target": "/Organisations/Pussy-Bandits",
-      "text": "Pussy Bandits"
-    },
-    {
-      "source": "/Areas/Innadel",
-      "target": "/People/Gods/Eldath",
-      "text": "Eldath"
-    },
-    {
-      "source": "/Areas/Innadel",
-      "target": "/People/NPC/Percival",
-      "text": "Percival"
-    },
-    {
-      "source": "/Areas/Myts",
-      "target": "/People/NPC/Minister-Rabaniar",
-      "text": "Minister Rabaniar"
-    },
-    {
-      "source": "/Areas/Myts",
-      "target": "/Organisations/The-Joy-Family",
-      "text": "The Joy Family"
-    },
-    {
-      "source": "/Areas/Myts",
-      "target": "/People/NPC/Breeze",
-      "text": "Breeze"
-    },
-    {
-      "source": "/Areas/Ofheise",
-      "target": "/Areas/Rauthei",
-      "text": "Rauthei"
-    },
-    {
-      "source": "/Areas/Ofheise",
-      "target": "/People/Players/Ex-Players/Ellianas",
-      "text": "Ellianas"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/Organisations/Cradle-Snatchers",
-      "text": "Cradle Snatchers"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Percival",
-      "text": "Percival"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Pink-Panther",
-      "text": "Pink Panther"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
-      "text": "Geralt of Rivania"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Corellien",
-      "text": "Corellien"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Merryweather",
-      "text": "Merryweather"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Ratkin",
-      "text": "Ratkin"
-    },
-    {
-      "source": "/Areas/Stronghold",
-      "target": "/People/NPC/Cosine",
-      "text": "People/NPC/Cosine"
-    },
-    {
-      "source": "/Areas/Thyme-Wastes",
-      "target": "/Organisations/The-Joy-Family",
-      "text": "The Joy Family"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Tarvern-of-Forever",
-      "text": "Tarvern of Forever"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Stronghold",
-      "text": "Stronghold"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Cradle",
-      "text": "Cradle"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Elunore",
-      "text": "Elunore"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Elunore",
-      "text": "Elunore"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Ghost",
-      "text": "Ghost"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Innadel",
-      "text": "Innadel"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Leradel",
-      "text": "Leradel"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Myts",
-      "text": "Myts"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Ofheise",
-      "text": "Ofheise"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Indel",
-      "text": "Indel"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Rauthei",
-      "text": "Rauthei"
-    },
-    {
-      "source": "/Areas",
-      "target": "/Areas/Thyme-Wastes",
-      "text": "Thyme Wastes"
-    },
-    {
       "source": "/Items/Dominus-Oraculum",
       "target": "/People/Players/Ex-Players/Naberus",
       "text": "Naberus"
@@ -3128,6 +2943,176 @@
       "source": "/Items/Malice",
       "target": "/People/Players/Daria",
       "text": "Daria"
+    },
+    {
+      "source": "/Locations/Cradle",
+      "target": "/People/NPC/Canus",
+      "text": "Canus"
+    },
+    {
+      "source": "/Locations/Cradle",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Locations/Cradle",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Locations/Ghost",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Locations/Ghost",
+      "target": "/People/NPC/Du-Pontifs",
+      "text": "Du Pontif's"
+    },
+    {
+      "source": "/Locations/Indel",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Locations/Innadel",
+      "target": "/People/Gods/Eldath",
+      "text": "Eldath"
+    },
+    {
+      "source": "/Locations/Innadel",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/Locations/Myts",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Locations/Myts",
+      "target": "/Organisations/The-Joy-Family",
+      "text": "The Joy Family"
+    },
+    {
+      "source": "/Locations/Myts",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Locations/Ofheise",
+      "target": "/Locations/Rauthei",
+      "text": "Rauthei"
+    },
+    {
+      "source": "/Locations/Ofheise",
+      "target": "/People/Players/Ex-Players/Ellianas",
+      "text": "Ellianas"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Pink-Panther",
+      "text": "Pink Panther"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Merryweather",
+      "text": "Merryweather"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Ratkin",
+      "text": "Ratkin"
+    },
+    {
+      "source": "/Locations/Stronghold",
+      "target": "/People/NPC/Cosine",
+      "text": "People/NPC/Cosine"
+    },
+    {
+      "source": "/Locations/Thyme-Wastes",
+      "target": "/Organisations/The-Joy-Family",
+      "text": "The Joy Family"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Tarvern-of-Forever",
+      "text": "Tarvern of Forever"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Cradle",
+      "text": "Cradle"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Ghost",
+      "text": "Ghost"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Indel",
+      "text": "Indel"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Leradel",
+      "text": "Leradel"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Myts",
+      "text": "Myts"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Rauthei",
+      "text": "Rauthei"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Stronghold",
+      "text": "Stronghold"
+    },
+    {
+      "source": "/Locations",
+      "target": "/Locations/Thyme-Wastes",
+      "text": "Thyme Wastes"
     },
     {
       "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
@@ -3196,7 +3181,7 @@
     },
     {
       "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "target": "/Areas/Innadel",
+      "target": "/Locations/Innadel",
       "text": "Innadel"
     },
     {
@@ -3206,13 +3191,13 @@
     },
     {
       "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "target": "/Areas/Innadel",
+      "target": "/Locations/Innadel",
       "text": "Innadel"
     },
     {
       "source": "/Organisations/Pussy-Bandits",
-      "target": "/Areas/Thyme-Wastes",
-      "text": "Areas/Thyme Wastes"
+      "target": "/Locations/Thyme-Wastes",
+      "text": "Locations/Thyme Wastes"
     },
     {
       "source": "/Organisations/Pussy-Bandits",
@@ -3221,12 +3206,12 @@
     },
     {
       "source": "/Organisations/The-Joy-Family",
-      "target": "/Areas/Myts",
+      "target": "/Locations/Myts",
       "text": "Myts"
     },
     {
       "source": "/Organisations/The-Joy-Family",
-      "target": "/Areas/Thyme-Wastes",
+      "target": "/Locations/Thyme-Wastes",
       "text": "Thyme Wastes"
     },
     {
@@ -3346,13 +3331,13 @@
     },
     {
       "source": "/Other/Teleportation-Locations",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
       "source": "/Other/Unknowns",
-      "target": "/Areas/Innadel",
-      "text": "Areas/Innadel"
+      "target": "/Locations/Innadel",
+      "text": "Locations/Innadel"
     },
     {
       "source": "/Other/Unknowns",
@@ -3366,8 +3351,8 @@
     },
     {
       "source": "/Other/Unknowns",
-      "target": "/Areas/Innadel",
-      "text": "Areas/Innadel"
+      "target": "/Locations/Innadel",
+      "text": "Locations/Innadel"
     },
     {
       "source": "/People/Gods/Lady-Ravana",
@@ -3606,7 +3591,7 @@
     },
     {
       "source": "/People/NPC/Breeze",
-      "target": "/Areas/Myts",
+      "target": "/Locations/Myts",
       "text": "Myts"
     },
     {
@@ -3616,7 +3601,7 @@
     },
     {
       "source": "/People/NPC/Brior",
-      "target": "/Areas/Thyme-Wastes",
+      "target": "/Locations/Thyme-Wastes",
       "text": "Thyme Wastes"
     },
     {
@@ -3636,7 +3621,7 @@
     },
     {
       "source": "/People/NPC/Du-Pontifs",
-      "target": "/Areas/Ghost.md",
+      "target": "/Locations/Ghost.md",
       "text": "Bathumhold"
     },
     {
@@ -3646,7 +3631,7 @@
     },
     {
       "source": "/People/NPC/General-Howlington",
-      "target": "/Areas/Ghost",
+      "target": "/Locations/Ghost",
       "text": "Ghost"
     },
     {
@@ -3661,7 +3646,7 @@
     },
     {
       "source": "/People/NPC/La-Qua",
-      "target": "/Areas/Innadel.md",
+      "target": "/Locations/Innadel.md",
       "text": "Badger Hill"
     },
     {
@@ -3691,22 +3676,22 @@
     },
     {
       "source": "/People/NPC/Minister-Rabaniar",
-      "target": "/Areas/Myts",
+      "target": "/Locations/Myts",
       "text": "Myts"
     },
     {
       "source": "/People/NPC/Murray-Destroyer-of-Worlds",
-      "target": "/Areas/Ghost",
+      "target": "/Locations/Ghost",
       "text": "Ghost"
     },
     {
       "source": "/People/NPC/Percival",
-      "target": "/Areas/Innadel.md",
+      "target": "/Locations/Innadel.md",
       "text": "Badger Hill"
     },
     {
       "source": "/People/NPC/Pink-Panther",
-      "target": "/Areas/Stronghold",
+      "target": "/Locations/Stronghold",
       "text": "Stronghold"
     },
     {
@@ -3731,12 +3716,12 @@
     },
     {
       "source": "/People/NPC/Saraki",
-      "target": "/Areas/Elunore",
+      "target": "/Locations/Elunore",
       "text": "Elunore"
     },
     {
       "source": "/People/NPC/Saraki",
-      "target": "/Areas/Cradle",
+      "target": "/Locations/Cradle",
       "text": "Cradle"
     },
     {
@@ -3761,7 +3746,7 @@
     },
     {
       "source": "/People/Players/Ex-Players/Batflap",
-      "target": "/Areas/Tarvern-of-Forever",
+      "target": "/Locations/Tarvern-of-Forever",
       "text": "Tarvern of Forever"
     },
     {
@@ -3826,12 +3811,12 @@
     },
     {
       "source": "/People/Players/Qidan",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
       "source": "/People/Players/Qidan",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
@@ -3851,17 +3836,17 @@
     },
     {
       "source": "/Sessions/Session-1",
-      "target": "/Areas/Innadel",
+      "target": "/Locations/Innadel",
       "text": "Innadel"
     },
     {
       "source": "/Sessions/Session-1",
-      "target": "/Areas/Leradel",
+      "target": "/Locations/Leradel",
       "text": "Leradel"
     },
     {
       "source": "/Sessions/Session-1",
-      "target": "/Areas/Innadel",
+      "target": "/Locations/Innadel",
       "text": "Innadel"
     },
     {
@@ -3876,12 +3861,12 @@
     },
     {
       "source": "/Sessions/Session-1",
-      "target": "/Areas/Innadel.md",
+      "target": "/Locations/Innadel.md",
       "text": "Badger Hill"
     },
     {
       "source": "/Sessions/Session-1",
-      "target": "/Areas/Innadel.md",
+      "target": "/Locations/Innadel.md",
       "text": "Badger Hill"
     },
     {
@@ -3926,7 +3911,7 @@
     },
     {
       "source": "/Sessions/Session-11",
-      "target": "/Areas/Indel",
+      "target": "/Locations/Indel",
       "text": "Indel"
     },
     {
@@ -3936,7 +3921,7 @@
     },
     {
       "source": "/Sessions/Session-2",
-      "target": "/Areas/Innadel.md",
+      "target": "/Locations/Innadel.md",
       "text": "Badger Hill"
     },
     {
@@ -3961,17 +3946,17 @@
     },
     {
       "source": "/Sessions/Session-2",
-      "target": "/Areas/Elunore",
+      "target": "/Locations/Elunore",
       "text": "Elunore"
     },
     {
       "source": "/Sessions/Session-2",
-      "target": "/Areas/Stronghold",
+      "target": "/Locations/Stronghold",
       "text": "Stronghold"
     },
     {
       "source": "/Sessions/Session-2",
-      "target": "/Areas/Elunore",
+      "target": "/Locations/Elunore",
       "text": "Elunore"
     },
     {
@@ -3996,12 +3981,12 @@
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/Areas/Ghost",
+      "target": "/Locations/Ghost",
       "text": "Ghost"
     },
     {
@@ -4016,7 +4001,7 @@
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
@@ -4026,7 +4011,7 @@
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/Areas/Rauthei",
+      "target": "/Locations/Rauthei",
       "text": "Rauthei"
     },
     {
@@ -4071,7 +4056,7 @@
     },
     {
       "source": "/Sessions/Session-6",
-      "target": "/Areas/Ofheise",
+      "target": "/Locations/Ofheise",
       "text": "Ofheise"
     },
     {
@@ -4216,7 +4201,7 @@
     },
     {
       "source": "/",
-      "target": "/Areas/index",
+      "target": "/Locations/index",
       "text": "Locations"
     },
     {
