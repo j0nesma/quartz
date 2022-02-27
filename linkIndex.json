@@ -60,7 +60,7 @@
         {
           "source": "/",
           "target": "/Locations/index",
-          "text": "Locations"
+          "text": "index"
         },
         {
           "source": "/",
@@ -1789,7 +1789,7 @@
         {
           "source": "/",
           "target": "/Locations/index",
-          "text": "Locations"
+          "text": "index"
         }
       ],
       "/Madame-Porcus": [
@@ -4202,7 +4202,7 @@
     {
       "source": "/",
       "target": "/Locations/index",
-      "text": "Locations"
+      "text": "index"
     },
     {
       "source": "/",
