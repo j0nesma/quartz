@@ -1,0 +1,4243 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-1",
+          "text": "Session 1"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-2",
+          "text": "Session 2"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-3",
+          "text": "Session 3"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-4",
+          "text": "Session 4"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-5",
+          "text": "Session 5"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-6",
+          "text": "Session 6"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-7",
+          "text": "Session 7"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-8",
+          "text": "Session 8"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-9",
+          "text": "Session 9"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-10",
+          "text": "Session 10"
+        },
+        {
+          "source": "/",
+          "target": "/Sessions/Session-11",
+          "text": "Session 11"
+        },
+        {
+          "source": "/",
+          "target": "/Areas/index",
+          "text": "Locations"
+        },
+        {
+          "source": "/",
+          "target": "/Other/Teleportation-Locations",
+          "text": "Teleportation Locations"
+        },
+        {
+          "source": "/",
+          "target": "/Organisations/index",
+          "text": "Organisations"
+        },
+        {
+          "source": "/",
+          "target": "/Items/Index",
+          "text": "Items"
+        },
+        {
+          "source": "/",
+          "target": "/People/Index",
+          "text": "Index"
+        }
+      ],
+      "/Areas": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Cradle",
+          "text": "Cradle"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Leradel",
+          "text": "Leradel"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        }
+      ],
+      "/Areas/Cradle": [
+        {
+          "source": "/Areas/Cradle",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/Areas/Cradle",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Areas/Cradle",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        }
+      ],
+      "/Areas/Ghost": [
+        {
+          "source": "/Areas/Ghost",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Areas/Ghost",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        }
+      ],
+      "/Areas/Indel": [
+        {
+          "source": "/Areas/Indel",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/Areas/Innadel": [
+        {
+          "source": "/Areas/Innadel",
+          "target": "/People/Gods/Eldath",
+          "text": "Eldath"
+        },
+        {
+          "source": "/Areas/Innadel",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        }
+      ],
+      "/Areas/Myts": [
+        {
+          "source": "/Areas/Myts",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Areas/Myts",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        },
+        {
+          "source": "/Areas/Myts",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        }
+      ],
+      "/Areas/Ofheise": [
+        {
+          "source": "/Areas/Ofheise",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Areas/Ofheise",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        }
+      ],
+      "/Areas/Stronghold": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Pink-Panther",
+          "text": "Pink Panther"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Merryweather",
+          "text": "Merryweather"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Ratkin",
+          "text": "Ratkin"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Cosine",
+          "text": "People/NPC/Cosine"
+        }
+      ],
+      "/Areas/Thyme-Wastes": [
+        {
+          "source": "/Areas/Thyme-Wastes",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        }
+      ],
+      "/Items/Dominus-Oraculum": [
+        {
+          "source": "/Items/Dominus-Oraculum",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        }
+      ],
+      "/Items/Index": [
+        {
+          "source": "/Items/Index",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Items/Index",
+          "target": "/Items/Malice",
+          "text": "Malice"
+        }
+      ],
+      "/Items/Malice": [
+        {
+          "source": "/Items/Malice",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        }
+      ],
+      "/Organisations": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "text": "Brotherhood of the Resplendent Skin"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Order-of-the-Blue-Boar",
+          "text": "Order of the Blue Boar"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Granade-Users",
+          "text": "Granade Users"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Zentarum",
+          "text": "Zentarum"
+        }
+      ],
+      "/Organisations/Brotherhood-of-the-Resplendent-Skin": [
+        {
+          "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        }
+      ],
+      "/Organisations/Cradle-Snatchers": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        }
+      ],
+      "/Organisations/Granade-Users": [
+        {
+          "source": "/Organisations/Granade-Users",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Organisations/Granade-Users",
+          "target": "/People/NPC/Pigwings",
+          "text": "People/NPC/Pigwings"
+        }
+      ],
+      "/Organisations/Octopus-Tattoo-Cathuwu": [
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        }
+      ],
+      "/Organisations/Pussy-Bandits": [
+        {
+          "source": "/Organisations/Pussy-Bandits",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Areas/Thyme Wastes"
+        },
+        {
+          "source": "/Organisations/Pussy-Bandits",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        }
+      ],
+      "/Organisations/The-Joy-Family": [
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        }
+      ],
+      "/Organisations/The-Syndicate": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/Lady-Ravana",
+          "text": "Lady Ravana"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lord-Itcis",
+          "text": "Lord Itcis"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lord-Bovi",
+          "text": "Lord Bovi"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/Madame-Porcus",
+          "text": "Madame Porcus"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        }
+      ],
+      "/Other/Index": [
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Memes",
+          "text": "Memes"
+        },
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Unknowns",
+          "text": "Unknowns"
+        },
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Teleportation-Locations",
+          "text": "Teleportation Locations"
+        }
+      ],
+      "/Other/Memes": [
+        {
+          "source": "/Other/Memes",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        }
+      ],
+      "/Other/Teleportation-Locations": [
+        {
+          "source": "/Other/Teleportation-Locations",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        }
+      ],
+      "/Other/Unknowns": [
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Areas/Innadel",
+          "text": "Areas/Innadel"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "People/NPC/Lady Xiao"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/People/Players/Winter",
+          "text": "People/Players/Winter"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Areas/Innadel",
+          "text": "Areas/Innadel"
+        }
+      ],
+      "/People/Gods/Lady-Ravana": [
+        {
+          "source": "/People/Gods/Lady-Ravana",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        }
+      ],
+      "/People/Gods/Mardred-Blutgard-God": [
+        {
+          "source": "/People/Gods/Mardred-Blutgard-God",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        }
+      ],
+      "/People/Index": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Eldath",
+          "text": "Eldath"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lady-Ravana",
+          "text": "Lady Ravana"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lathander",
+          "text": "Lathander"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lolth",
+          "text": "Lolth"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Mardred-Blutgard-God",
+          "text": "Mardred Blutgard, God"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Blossom",
+          "text": "Blossom"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Cosine",
+          "text": "Cosine"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/General-Howlington",
+          "text": "General Howlington"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Granny",
+          "text": "Granny"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lord-Bovi",
+          "text": "Lord Bovi"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lord-Itcis",
+          "text": "Lord Itcis"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Merryweather",
+          "text": "Merryweather"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Pibbles",
+          "text": "Pibbles"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Pink-Panther",
+          "text": "Pink Panther"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Portobello-Pete",
+          "text": "Portobello Pete"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Ratkin",
+          "text": "Ratkin"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/The-Matron",
+          "text": "The Matron"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Batflap",
+          "text": "Batflap"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        }
+      ],
+      "/People/NPC/Blossom": [
+        {
+          "source": "/People/NPC/Blossom",
+          "target": "/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/People/NPC/Blossom",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        }
+      ],
+      "/People/NPC/Breeze": [
+        {
+          "source": "/People/NPC/Breeze",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/People/NPC/Breeze",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        }
+      ],
+      "/People/NPC/Brior": [
+        {
+          "source": "/People/NPC/Brior",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/People/NPC/Brior",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/People/NPC/Corellien": [
+        {
+          "source": "/People/NPC/Corellien",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/People/NPC/Corellien",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        }
+      ],
+      "/People/NPC/Du-Pontifs": [
+        {
+          "source": "/People/NPC/Du-Pontifs",
+          "target": "/Areas/Ghost.md",
+          "text": "Bathumhold"
+        }
+      ],
+      "/People/NPC/Fang": [
+        {
+          "source": "/People/NPC/Fang",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        }
+      ],
+      "/People/NPC/General-Howlington": [
+        {
+          "source": "/People/NPC/General-Howlington",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/People/NPC/General-Howlington",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        }
+      ],
+      "/People/NPC/Granny": [
+        {
+          "source": "/People/NPC/Granny",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        }
+      ],
+      "/People/NPC/La-Qua": [
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        }
+      ],
+      "/People/NPC/Lady-Xiao": [
+        {
+          "source": "/People/NPC/Lady-Xiao",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Lady-Xiao",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        }
+      ],
+      "/People/NPC/Lord-Bovi": [
+        {
+          "source": "/People/NPC/Lord-Bovi",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        }
+      ],
+      "/People/NPC/Merryweather": [
+        {
+          "source": "/People/NPC/Merryweather",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        }
+      ],
+      "/People/NPC/Minister-Rabaniar": [
+        {
+          "source": "/People/NPC/Minister-Rabaniar",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        }
+      ],
+      "/People/NPC/Murray-Destroyer-of-Worlds": [
+        {
+          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        }
+      ],
+      "/People/NPC/Percival": [
+        {
+          "source": "/People/NPC/Percival",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        }
+      ],
+      "/People/NPC/Pink-Panther": [
+        {
+          "source": "/People/NPC/Pink-Panther",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        }
+      ],
+      "/People/NPC/Portobello-Pete": [
+        {
+          "source": "/People/NPC/Portobello-Pete",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        }
+      ],
+      "/People/NPC/Rillathane": [
+        {
+          "source": "/People/NPC/Rillathane",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Rillathane",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        }
+      ],
+      "/People/NPC/Saraki": [
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Areas/Cradle",
+          "text": "Cradle"
+        }
+      ],
+      "/People/NPC/The-Marquis": [
+        {
+          "source": "/People/NPC/The-Marquis",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        }
+      ],
+      "/People/NPC/The-Matron": [
+        {
+          "source": "/People/NPC/The-Matron",
+          "target": "/Fang",
+          "text": "Fang"
+        },
+        {
+          "source": "/People/NPC/The-Matron",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        }
+      ],
+      "/People/Players/Daria": [
+        {
+          "source": "/People/Players/Daria",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        }
+      ],
+      "/People/Players/Ex-Players/Batflap": [
+        {
+          "source": "/People/Players/Ex-Players/Batflap",
+          "target": "/Areas/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        }
+      ],
+      "/People/Players/Ex-Players/Ellianas": [
+        {
+          "source": "/People/Players/Ex-Players/Ellianas",
+          "target": "/People/NPC/Granny",
+          "text": "Granny"
+        }
+      ],
+      "/People/Players/Index": [
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Batflap",
+          "text": "Batflap"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        }
+      ],
+      "/People/Players/Qidan": [
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/Gods/Lolth",
+          "text": "Lolth"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Portobello-Pete",
+          "text": "Portobello Pete"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        }
+      ],
+      "/Sessions/Session-1": [
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Leradel",
+          "text": "Leradel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        }
+      ],
+      "/Sessions/Session-10": [
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/",
+          "text": "Winter Daira and Qidan"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/",
+          "text": "Archi"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/Sessions/Session-11": [
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Areas/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/Sessions/Session-2": [
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Gods/Lathander",
+          "text": "People/Gods/Lathander"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        }
+      ],
+      "/Sessions/Session-3": [
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/Gods/Lady-Ravana",
+          "text": "Lady Ravana"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        }
+      ],
+      "/Sessions/Session-4": [
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/The-Matron",
+          "text": "The Matron"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/General-Howlington",
+          "text": "General Howlington"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        }
+      ],
+      "/Sessions/Session-5": [
+        {
+          "source": "/Sessions/Session-5",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        }
+      ],
+      "/Sessions/Session-6": [
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        }
+      ],
+      "/Sessions/Session-7": [
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        }
+      ],
+      "/Sessions/Session-8": [
+        {
+          "source": "/Sessions/Session-8",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        }
+      ],
+      "/Sessions/Session-9": [
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        }
+      ]
+    },
+    "backlinks": {
+      "/": [
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/",
+          "text": "Winter Daira and Qidan"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/",
+          "text": "Archi"
+        }
+      ],
+      "/Areas/Cradle": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Cradle",
+          "text": "Cradle"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Areas/Cradle",
+          "text": "Cradle"
+        }
+      ],
+      "/Areas/Elunore": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Elunore",
+          "text": "Elunore"
+        }
+      ],
+      "/Areas/Ghost": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/People/NPC/General-Howlington",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ghost",
+          "text": "Ghost"
+        }
+      ],
+      "/Areas/Ghost.md": [
+        {
+          "source": "/People/NPC/Du-Pontifs",
+          "target": "/Areas/Ghost.md",
+          "text": "Bathumhold"
+        }
+      ],
+      "/Areas/Indel": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Areas/Indel",
+          "text": "Indel"
+        }
+      ],
+      "/Areas/Innadel": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Areas/Innadel",
+          "text": "Areas/Innadel"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/Areas/Innadel",
+          "text": "Areas/Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel",
+          "text": "Innadel"
+        }
+      ],
+      "/Areas/Innadel.md": [
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/People/NPC/Percival",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Innadel.md",
+          "text": "Badger Hill"
+        }
+      ],
+      "/Areas/Leradel": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Leradel",
+          "text": "Leradel"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Areas/Leradel",
+          "text": "Leradel"
+        }
+      ],
+      "/Areas/Myts": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/People/NPC/Breeze",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        },
+        {
+          "source": "/People/NPC/Minister-Rabaniar",
+          "target": "/Areas/Myts",
+          "text": "Myts"
+        }
+      ],
+      "/Areas/Ofheise": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Other/Teleportation-Locations",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/Areas/Ofheise",
+          "text": "Ofheise"
+        }
+      ],
+      "/Areas/Rauthei": [
+        {
+          "source": "/Areas/Ofheise",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Areas",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/Areas/Rauthei",
+          "text": "Rauthei"
+        }
+      ],
+      "/Areas/Stronghold": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/People/NPC/Pink-Panther",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Areas/Stronghold",
+          "text": "Stronghold"
+        }
+      ],
+      "/Areas/Tarvern-of-Forever": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        },
+        {
+          "source": "/People/Players/Ex-Players/Batflap",
+          "target": "/Areas/Tarvern-of-Forever",
+          "text": "Tarvern of Forever"
+        }
+      ],
+      "/Areas/Thyme-Wastes": [
+        {
+          "source": "/Areas",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/Organisations/Pussy-Bandits",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Areas/Thyme Wastes"
+        },
+        {
+          "source": "/Organisations/The-Joy-Family",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/People/NPC/Brior",
+          "target": "/Areas/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        }
+      ],
+      "/Areas/index": [
+        {
+          "source": "/",
+          "target": "/Areas/index",
+          "text": "Locations"
+        }
+      ],
+      "/Breeze": [
+        {
+          "source": "/People/NPC/Blossom",
+          "target": "/Breeze",
+          "text": "Breeze"
+        }
+      ],
+      "/Fang": [
+        {
+          "source": "/People/NPC/The-Matron",
+          "target": "/Fang",
+          "text": "Fang"
+        }
+      ],
+      "/Items/Dominus-Oraculum": [
+        {
+          "source": "/Items/Index",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        }
+      ],
+      "/Items/Index": [
+        {
+          "source": "/",
+          "target": "/Items/Index",
+          "text": "Items"
+        }
+      ],
+      "/Items/Malice": [
+        {
+          "source": "/Items/Index",
+          "target": "/Items/Malice",
+          "text": "Malice"
+        }
+      ],
+      "/Lady-Ravana": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/Lady-Ravana",
+          "text": "Lady Ravana"
+        }
+      ],
+      "/Madame-Porcus": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/Madame-Porcus",
+          "text": "Madame Porcus"
+        }
+      ],
+      "/Organisations/Brotherhood-of-the-Resplendent-Skin": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "text": "Brotherhood of the Resplendent Skin"
+        }
+      ],
+      "/Organisations/Cradle-Snatchers": [
+        {
+          "source": "/Areas/Cradle",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Organisations/Granade-Users",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/People/NPC/Breeze",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        },
+        {
+          "source": "/People/NPC/Rillathane",
+          "target": "/Organisations/Cradle-Snatchers",
+          "text": "Cradle Snatchers"
+        }
+      ],
+      "/Organisations/Granade-Users": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Granade-Users",
+          "text": "Granade Users"
+        }
+      ],
+      "/Organisations/Octopus-Tattoo-Cathuwu": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        }
+      ],
+      "/Organisations/Order-of-the-Blue-Boar": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Order-of-the-Blue-Boar",
+          "text": "Order of the Blue Boar"
+        }
+      ],
+      "/Organisations/Pussy-Bandits": [
+        {
+          "source": "/Areas/Indel",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/People/NPC/Brior",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        }
+      ],
+      "/Organisations/The-Joy-Family": [
+        {
+          "source": "/Areas/Myts",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        },
+        {
+          "source": "/Areas/Thyme-Wastes",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/The-Joy-Family",
+          "text": "The Joy Family"
+        }
+      ],
+      "/Organisations/The-Syndicate": [
+        {
+          "source": "/Areas/Cradle",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/Gods/Lady-Ravana",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Lady-Xiao",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Lord-Bovi",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Rillathane",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/Saraki",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/NPC/The-Marquis",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        }
+      ],
+      "/Organisations/Zentarum": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Zentarum",
+          "text": "Zentarum"
+        }
+      ],
+      "/Organisations/index": [
+        {
+          "source": "/",
+          "target": "/Organisations/index",
+          "text": "Organisations"
+        }
+      ],
+      "/Other/Memes": [
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Memes",
+          "text": "Memes"
+        }
+      ],
+      "/Other/Teleportation-Locations": [
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Teleportation-Locations",
+          "text": "Teleportation Locations"
+        },
+        {
+          "source": "/",
+          "target": "/Other/Teleportation-Locations",
+          "text": "Teleportation Locations"
+        }
+      ],
+      "/Other/Unknowns": [
+        {
+          "source": "/Other/Index",
+          "target": "/Other/Unknowns",
+          "text": "Unknowns"
+        }
+      ],
+      "/People/Gods/Eldath": [
+        {
+          "source": "/Areas/Innadel",
+          "target": "/People/Gods/Eldath",
+          "text": "Eldath"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Eldath",
+          "text": "Eldath"
+        }
+      ],
+      "/People/Gods/Hoar": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        },
+        {
+          "source": "/People/Players/Daria",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/Gods/Hoar",
+          "text": "Hoar"
+        }
+      ],
+      "/People/Gods/Lady-Ravana": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lady-Ravana",
+          "text": "Lady Ravana"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/Gods/Lady-Ravana",
+          "text": "Lady Ravana"
+        }
+      ],
+      "/People/Gods/Lathander": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lathander",
+          "text": "Lathander"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Gods/Lathander",
+          "text": "People/Gods/Lathander"
+        }
+      ],
+      "/People/Gods/Lolth": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Lolth",
+          "text": "Lolth"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/Gods/Lolth",
+          "text": "Lolth"
+        }
+      ],
+      "/People/Gods/Mardred-Blutgard-God": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Gods/Mardred-Blutgard-God",
+          "text": "Mardred Blutgard, God"
+        }
+      ],
+      "/People/Index": [
+        {
+          "source": "/",
+          "target": "/People/Index",
+          "text": "Index"
+        }
+      ],
+      "/People/NPC/Blossom": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Blossom",
+          "text": "Blossom"
+        }
+      ],
+      "/People/NPC/Breeze": [
+        {
+          "source": "/Areas/Myts",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        }
+      ],
+      "/People/NPC/Brior": [
+        {
+          "source": "/Organisations/Pussy-Bandits",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        }
+      ],
+      "/People/NPC/Canus": [
+        {
+          "source": "/Areas/Cradle",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Canus",
+          "text": "Canus"
+        }
+      ],
+      "/People/NPC/Corellien": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/People/NPC/Merryweather",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        }
+      ],
+      "/People/NPC/Cosine": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Cosine",
+          "text": "People/NPC/Cosine"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Cosine",
+          "text": "Cosine"
+        }
+      ],
+      "/People/NPC/Du-Pontifs": [
+        {
+          "source": "/Areas/Ghost",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        },
+        {
+          "source": "/Sessions/Session-5",
+          "target": "/People/NPC/Du-Pontifs",
+          "text": "Du Pontif's"
+        }
+      ],
+      "/People/NPC/Fang": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/Fang",
+          "text": "Fang"
+        }
+      ],
+      "/People/NPC/General-Howlington": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/General-Howlington",
+          "text": "General Howlington"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/General-Howlington",
+          "text": "General Howlington"
+        }
+      ],
+      "/People/NPC/Granny": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Granny",
+          "text": "Granny"
+        },
+        {
+          "source": "/People/Players/Ex-Players/Ellianas",
+          "target": "/People/NPC/Granny",
+          "text": "Granny"
+        }
+      ],
+      "/People/NPC/La-Qua": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/La-Qua",
+          "text": "La Qua"
+        }
+      ],
+      "/People/NPC/Lady-Xiao": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "People/NPC/Lady Xiao"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-1",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Lady-Xiao",
+          "text": "Lady Xiao"
+        }
+      ],
+      "/People/NPC/Lord-Bovi": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lord-Bovi",
+          "text": "Lord Bovi"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lord-Bovi",
+          "text": "Lord Bovi"
+        }
+      ],
+      "/People/NPC/Lord-Itcis": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Lord-Itcis",
+          "text": "Lord Itcis"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Lord-Itcis",
+          "text": "Lord Itcis"
+        }
+      ],
+      "/People/NPC/Madame-Porkus": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
+          "source": "/Sessions/Session-11",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        }
+      ],
+      "/People/NPC/Merryweather": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Merryweather",
+          "text": "Merryweather"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Merryweather",
+          "text": "Merryweather"
+        }
+      ],
+      "/People/NPC/Minister-Rabaniar": [
+        {
+          "source": "/Areas/Myts",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/People/NPC/Blossom",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-10",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-8",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/People/NPC/Minister-Rabaniar",
+          "text": "Minister Rabaniar"
+        }
+      ],
+      "/People/NPC/Murray-Destroyer-of-Worlds": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "text": "Murray Destroyer of Worlds"
+        }
+      ],
+      "/People/NPC/Percival": [
+        {
+          "source": "/Areas/Innadel",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/NPC/Percival",
+          "text": "Percival"
+        }
+      ],
+      "/People/NPC/Pibbles": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Pibbles",
+          "text": "Pibbles"
+        }
+      ],
+      "/People/NPC/Pigwings": [
+        {
+          "source": "/Organisations/Granade-Users",
+          "target": "/People/NPC/Pigwings",
+          "text": "People/NPC/Pigwings"
+        }
+      ],
+      "/People/NPC/Pink-Panther": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Pink-Panther",
+          "text": "Pink Panther"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Pink-Panther",
+          "text": "Pink Panther"
+        }
+      ],
+      "/People/NPC/Portobello-Pete": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Portobello-Pete",
+          "text": "Portobello Pete"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Portobello-Pete",
+          "text": "Portobello Pete"
+        }
+      ],
+      "/People/NPC/Prelate-Jinelar": [
+        {
+          "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        }
+      ],
+      "/People/NPC/Ratkin": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/NPC/Ratkin",
+          "text": "Ratkin"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Ratkin",
+          "text": "Ratkin"
+        }
+      ],
+      "/People/NPC/Rillathane": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/People/NPC/Corellien",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        },
+        {
+          "source": "/People/NPC/Corellien",
+          "target": "/People/NPC/Rillathane",
+          "text": "Rillathane"
+        }
+      ],
+      "/People/NPC/Saraki": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Saraki",
+          "text": "Saraki"
+        }
+      ],
+      "/People/NPC/The-Marquis": [
+        {
+          "source": "/Areas/Ghost",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/People/NPC/Fang",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/People/NPC/General-Howlington",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        },
+        {
+          "source": "/Sessions/Session-6",
+          "target": "/People/NPC/The-Marquis",
+          "text": "The Marquis"
+        }
+      ],
+      "/People/NPC/The-Matron": [
+        {
+          "source": "/People/Index",
+          "target": "/People/NPC/The-Matron",
+          "text": "The Matron"
+        },
+        {
+          "source": "/Sessions/Session-4",
+          "target": "/People/NPC/The-Matron",
+          "text": "The Matron"
+        }
+      ],
+      "/People/Players/Archibald": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/NPC/Lady-Xiao",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/Players/Archibald",
+          "text": "Archibald"
+        }
+      ],
+      "/People/Players/Daria": [
+        {
+          "source": "/Items/Malice",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Daria",
+          "text": "Daria"
+        }
+      ],
+      "/People/Players/Ex-Players/Batflap": [
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Batflap",
+          "text": "Batflap"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Batflap",
+          "text": "Batflap"
+        }
+      ],
+      "/People/Players/Ex-Players/Blue": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Blue",
+          "text": "Blue"
+        }
+      ],
+      "/People/Players/Ex-Players/Ellianas": [
+        {
+          "source": "/Areas/Ofheise",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Ellianas",
+          "text": "Ellianas"
+        }
+      ],
+      "/People/Players/Ex-Players/Geralt-of-Rivania": [
+        {
+          "source": "/Areas/Stronghold",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Other/Memes",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/People/NPC/Granny",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        }
+      ],
+      "/People/Players/Ex-Players/Mardred-Blutgard": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/People/Gods/Mardred-Blutgard-God",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        },
+        {
+          "source": "/Sessions/Session-7",
+          "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+          "text": "Mardred Blutgard"
+        }
+      ],
+      "/People/Players/Ex-Players/Naberus": [
+        {
+          "source": "/Items/Dominus-Oraculum",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/People/NPC/The-Matron",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
+        {
+          "source": "/Sessions/Session-2",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        }
+      ],
+      "/People/Players/Ex-Players/Sigma": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Ex-Players/Sigma",
+          "text": "Sigma"
+        }
+      ],
+      "/People/Players/Qidan": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/People/NPC/Portobello-Pete",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        },
+        {
+          "source": "/Sessions/Session-3",
+          "target": "/People/Players/Qidan",
+          "text": "Qidan"
+        }
+      ],
+      "/People/Players/Winter": [
+        {
+          "source": "/Organisations/Cradle-Snatchers",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/Other/Unknowns",
+          "target": "/People/Players/Winter",
+          "text": "People/Players/Winter"
+        },
+        {
+          "source": "/People/Index",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/People/Players/Index",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        }
+      ],
+      "/Sessions/Session-1": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-1",
+          "text": "Session 1"
+        }
+      ],
+      "/Sessions/Session-10": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-10",
+          "text": "Session 10"
+        }
+      ],
+      "/Sessions/Session-11": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-11",
+          "text": "Session 11"
+        }
+      ],
+      "/Sessions/Session-2": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-2",
+          "text": "Session 2"
+        }
+      ],
+      "/Sessions/Session-3": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-3",
+          "text": "Session 3"
+        }
+      ],
+      "/Sessions/Session-4": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-4",
+          "text": "Session 4"
+        }
+      ],
+      "/Sessions/Session-5": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-5",
+          "text": "Session 5"
+        }
+      ],
+      "/Sessions/Session-6": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-6",
+          "text": "Session 6"
+        }
+      ],
+      "/Sessions/Session-7": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-7",
+          "text": "Session 7"
+        }
+      ],
+      "/Sessions/Session-8": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-8",
+          "text": "Session 8"
+        }
+      ],
+      "/Sessions/Session-9": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-9",
+          "text": "Session 9"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Areas/Cradle",
+      "target": "/People/NPC/Canus",
+      "text": "Canus"
+    },
+    {
+      "source": "/Areas/Cradle",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Areas/Cradle",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Areas/Ghost",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Areas/Ghost",
+      "target": "/People/NPC/Du-Pontifs",
+      "text": "Du Pontif's"
+    },
+    {
+      "source": "/Areas/Indel",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Areas/Innadel",
+      "target": "/People/Gods/Eldath",
+      "text": "Eldath"
+    },
+    {
+      "source": "/Areas/Innadel",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/Areas/Myts",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Areas/Myts",
+      "target": "/Organisations/The-Joy-Family",
+      "text": "The Joy Family"
+    },
+    {
+      "source": "/Areas/Myts",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Areas/Ofheise",
+      "target": "/Areas/Rauthei",
+      "text": "Rauthei"
+    },
+    {
+      "source": "/Areas/Ofheise",
+      "target": "/People/Players/Ex-Players/Ellianas",
+      "text": "Ellianas"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Pink-Panther",
+      "text": "Pink Panther"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Merryweather",
+      "text": "Merryweather"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Ratkin",
+      "text": "Ratkin"
+    },
+    {
+      "source": "/Areas/Stronghold",
+      "target": "/People/NPC/Cosine",
+      "text": "People/NPC/Cosine"
+    },
+    {
+      "source": "/Areas/Thyme-Wastes",
+      "target": "/Organisations/The-Joy-Family",
+      "text": "The Joy Family"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Tarvern-of-Forever",
+      "text": "Tarvern of Forever"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Stronghold",
+      "text": "Stronghold"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Cradle",
+      "text": "Cradle"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Ghost",
+      "text": "Ghost"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Leradel",
+      "text": "Leradel"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Myts",
+      "text": "Myts"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Indel",
+      "text": "Indel"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Rauthei",
+      "text": "Rauthei"
+    },
+    {
+      "source": "/Areas",
+      "target": "/Areas/Thyme-Wastes",
+      "text": "Thyme Wastes"
+    },
+    {
+      "source": "/Items/Dominus-Oraculum",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/Items/Index",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Items/Index",
+      "target": "/Items/Malice",
+      "text": "Malice"
+    },
+    {
+      "source": "/Items/Malice",
+      "target": "/People/Players/Daria",
+      "text": "Daria"
+    },
+    {
+      "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+      "target": "/People/NPC/Prelate-Jinelar",
+      "text": "Prelate Jinelar"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Qidan",
+      "text": "Qidan"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Daria",
+      "text": "Daria"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Winter",
+      "text": "Winter"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+      "text": "Mardred Blutgard"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Ex-Players/Blue",
+      "text": "Blue"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Ex-Players/Sigma",
+      "text": "Sigma"
+    },
+    {
+      "source": "/Organisations/Cradle-Snatchers",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/Organisations/Granade-Users",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Organisations/Granade-Users",
+      "target": "/People/NPC/Pigwings",
+      "text": "People/NPC/Pigwings"
+    },
+    {
+      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "target": "/Areas/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "target": "/People/Players/Winter",
+      "text": "Winter"
+    },
+    {
+      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "target": "/Areas/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Organisations/Pussy-Bandits",
+      "target": "/Areas/Thyme-Wastes",
+      "text": "Areas/Thyme Wastes"
+    },
+    {
+      "source": "/Organisations/Pussy-Bandits",
+      "target": "/People/NPC/Brior",
+      "text": "Brior"
+    },
+    {
+      "source": "/Organisations/The-Joy-Family",
+      "target": "/Areas/Myts",
+      "text": "Myts"
+    },
+    {
+      "source": "/Organisations/The-Joy-Family",
+      "target": "/Areas/Thyme-Wastes",
+      "text": "Thyme Wastes"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/Lady-Ravana",
+      "text": "Lady Ravana"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Canus",
+      "text": "Canus"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Lord-Itcis",
+      "text": "Lord Itcis"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Lord-Bovi",
+      "text": "Lord Bovi"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/Madame-Porcus",
+      "text": "Madame Porcus"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Saraki",
+      "text": "Saraki"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Rillathane",
+      "text": "Rillathane"
+    },
+    {
+      "source": "/Organisations/The-Syndicate",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+      "text": "Brotherhood of the Resplendent Skin"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/The-Joy-Family",
+      "text": "The Joy Family"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "text": "Octopus Tattoo (Cathuwu)"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Order-of-the-Blue-Boar",
+      "text": "Order of the Blue Boar"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Granade-Users",
+      "text": "Granade Users"
+    },
+    {
+      "source": "/Organisations",
+      "target": "/Organisations/Zentarum",
+      "text": "Zentarum"
+    },
+    {
+      "source": "/Other/Index",
+      "target": "/Other/Memes",
+      "text": "Memes"
+    },
+    {
+      "source": "/Other/Index",
+      "target": "/Other/Unknowns",
+      "text": "Unknowns"
+    },
+    {
+      "source": "/Other/Index",
+      "target": "/Other/Teleportation-Locations",
+      "text": "Teleportation Locations"
+    },
+    {
+      "source": "/Other/Memes",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/Other/Teleportation-Locations",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Other/Unknowns",
+      "target": "/Areas/Innadel",
+      "text": "Areas/Innadel"
+    },
+    {
+      "source": "/Other/Unknowns",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "People/NPC/Lady Xiao"
+    },
+    {
+      "source": "/Other/Unknowns",
+      "target": "/People/Players/Winter",
+      "text": "People/Players/Winter"
+    },
+    {
+      "source": "/Other/Unknowns",
+      "target": "/Areas/Innadel",
+      "text": "Areas/Innadel"
+    },
+    {
+      "source": "/People/Gods/Lady-Ravana",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/Gods/Mardred-Blutgard-God",
+      "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+      "text": "Mardred Blutgard"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Eldath",
+      "text": "Eldath"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Hoar",
+      "text": "Hoar"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Lady-Ravana",
+      "text": "Lady Ravana"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Lathander",
+      "text": "Lathander"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Lolth",
+      "text": "Lolth"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Gods/Mardred-Blutgard-God",
+      "text": "Mardred Blutgard, God"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Blossom",
+      "text": "Blossom"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Brior",
+      "text": "Brior"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Canus",
+      "text": "Canus"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Cosine",
+      "text": "Cosine"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Du-Pontifs",
+      "text": "Du Pontif's"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Fang",
+      "text": "Fang"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/General-Howlington",
+      "text": "General Howlington"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Granny",
+      "text": "Granny"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/La-Qua",
+      "text": "La Qua"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Lord-Bovi",
+      "text": "Lord Bovi"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Lord-Itcis",
+      "text": "Lord Itcis"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Madame-Porkus",
+      "text": "Madame Porkus"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Merryweather",
+      "text": "Merryweather"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+      "text": "Murray Destroyer of Worlds"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Pibbles",
+      "text": "Pibbles"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Pink-Panther",
+      "text": "Pink Panther"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Portobello-Pete",
+      "text": "Portobello Pete"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Ratkin",
+      "text": "Ratkin"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Rillathane",
+      "text": "Rillathane"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/Saraki",
+      "text": "Saraki"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/The-Matron",
+      "text": "The Matron"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Daria",
+      "text": "Daria"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Qidan",
+      "text": "Qidan"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Winter",
+      "text": "Winter"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Batflap",
+      "text": "Batflap"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Blue",
+      "text": "Blue"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Ellianas",
+      "text": "Ellianas"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+      "text": "Mardred Blutgard"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/People/Index",
+      "target": "/People/Players/Ex-Players/Sigma",
+      "text": "Sigma"
+    },
+    {
+      "source": "/People/NPC/Blossom",
+      "target": "/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/People/NPC/Blossom",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/People/NPC/Breeze",
+      "target": "/Areas/Myts",
+      "text": "Myts"
+    },
+    {
+      "source": "/People/NPC/Breeze",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/People/NPC/Brior",
+      "target": "/Areas/Thyme-Wastes",
+      "text": "Thyme Wastes"
+    },
+    {
+      "source": "/People/NPC/Brior",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/People/NPC/Corellien",
+      "target": "/People/NPC/Rillathane",
+      "text": "Rillathane"
+    },
+    {
+      "source": "/People/NPC/Corellien",
+      "target": "/People/NPC/Rillathane",
+      "text": "Rillathane"
+    },
+    {
+      "source": "/People/NPC/Du-Pontifs",
+      "target": "/Areas/Ghost.md",
+      "text": "Bathumhold"
+    },
+    {
+      "source": "/People/NPC/Fang",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/People/NPC/General-Howlington",
+      "target": "/Areas/Ghost",
+      "text": "Ghost"
+    },
+    {
+      "source": "/People/NPC/General-Howlington",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/People/NPC/Granny",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/People/NPC/La-Qua",
+      "target": "/Areas/Innadel.md",
+      "text": "Badger Hill"
+    },
+    {
+      "source": "/People/NPC/La-Qua",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/People/NPC/Lady-Xiao",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/NPC/Lady-Xiao",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/People/NPC/Lord-Bovi",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/NPC/Merryweather",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/People/NPC/Minister-Rabaniar",
+      "target": "/Areas/Myts",
+      "text": "Myts"
+    },
+    {
+      "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+      "target": "/Areas/Ghost",
+      "text": "Ghost"
+    },
+    {
+      "source": "/People/NPC/Percival",
+      "target": "/Areas/Innadel.md",
+      "text": "Badger Hill"
+    },
+    {
+      "source": "/People/NPC/Pink-Panther",
+      "target": "/Areas/Stronghold",
+      "text": "Stronghold"
+    },
+    {
+      "source": "/People/NPC/Portobello-Pete",
+      "target": "/People/Players/Qidan",
+      "text": "Qidan"
+    },
+    {
+      "source": "/People/NPC/Rillathane",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/NPC/Rillathane",
+      "target": "/Organisations/Cradle-Snatchers",
+      "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/People/NPC/Saraki",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/NPC/Saraki",
+      "target": "/Areas/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/People/NPC/Saraki",
+      "target": "/Areas/Cradle",
+      "text": "Cradle"
+    },
+    {
+      "source": "/People/NPC/The-Marquis",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/NPC/The-Matron",
+      "target": "/Fang",
+      "text": "Fang"
+    },
+    {
+      "source": "/People/NPC/The-Matron",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/People/Players/Daria",
+      "target": "/People/Gods/Hoar",
+      "text": "Hoar"
+    },
+    {
+      "source": "/People/Players/Ex-Players/Batflap",
+      "target": "/Areas/Tarvern-of-Forever",
+      "text": "Tarvern of Forever"
+    },
+    {
+      "source": "/People/Players/Ex-Players/Ellianas",
+      "target": "/People/NPC/Granny",
+      "text": "Granny"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Daria",
+      "text": "Daria"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Winter",
+      "text": "Winter"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Qidan",
+      "text": "Qidan"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Batflap",
+      "text": "Batflap"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Blue",
+      "text": "Blue"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Ellianas",
+      "text": "Ellianas"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+      "text": "Mardred Blutgard"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/People/Players/Index",
+      "target": "/People/Players/Ex-Players/Sigma",
+      "text": "Sigma"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/People/Gods/Lolth",
+      "text": "Lolth"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/People/NPC/Portobello-Pete",
+      "text": "Portobello Pete"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/People/NPC/Saraki",
+      "text": "Saraki"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Areas/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Areas/Leradel",
+      "text": "Leradel"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Areas/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Areas/Innadel.md",
+      "text": "Badger Hill"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/Areas/Innadel.md",
+      "text": "Badger Hill"
+    },
+    {
+      "source": "/Sessions/Session-1",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Sessions/Session-10",
+      "target": "/",
+      "text": "Winter Daira and Qidan"
+    },
+    {
+      "source": "/Sessions/Session-10",
+      "target": "/",
+      "text": "Archi"
+    },
+    {
+      "source": "/Sessions/Session-10",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Sessions/Session-10",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Sessions/Session-11",
+      "target": "/People/NPC/Brior",
+      "text": "Brior"
+    },
+    {
+      "source": "/Sessions/Session-11",
+      "target": "/People/NPC/Madame-Porkus",
+      "text": "Madame Porkus"
+    },
+    {
+      "source": "/Sessions/Session-11",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Sessions/Session-11",
+      "target": "/Areas/Indel",
+      "text": "Indel"
+    },
+    {
+      "source": "/Sessions/Session-11",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/Areas/Innadel.md",
+      "text": "Badger Hill"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/NPC/Percival",
+      "text": "Percival"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/NPC/La-Qua",
+      "text": "La Qua"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/Areas/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/Areas/Stronghold",
+      "text": "Stronghold"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/Areas/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/Gods/Lathander",
+      "text": "People/Gods/Lathander"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/People/Players/Daria",
+      "text": "Daria"
+    },
+    {
+      "source": "/Sessions/Session-2",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/Areas/Ghost",
+      "text": "Ghost"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/People/Players/Qidan",
+      "text": "Qidan"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/People/Gods/Lady-Ravana",
+      "text": "Lady Ravana"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/Areas/Rauthei",
+      "text": "Rauthei"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Sessions/Session-3",
+      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+      "text": "Murray Destroyer of Worlds"
+    },
+    {
+      "source": "/Sessions/Session-4",
+      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
+      "text": "Murray Destroyer of Worlds"
+    },
+    {
+      "source": "/Sessions/Session-4",
+      "target": "/People/NPC/The-Matron",
+      "text": "The Matron"
+    },
+    {
+      "source": "/Sessions/Session-4",
+      "target": "/People/NPC/General-Howlington",
+      "text": "General Howlington"
+    },
+    {
+      "source": "/Sessions/Session-4",
+      "target": "/People/NPC/Fang",
+      "text": "Fang"
+    },
+    {
+      "source": "/Sessions/Session-4",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Sessions/Session-5",
+      "target": "/People/NPC/Du-Pontifs",
+      "text": "Du Pontif's"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/Areas/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/People/Gods/Hoar",
+      "text": "Hoar"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/People/NPC/The-Marquis",
+      "text": "The Marquis"
+    },
+    {
+      "source": "/Sessions/Session-6",
+      "target": "/People/NPC/Fang",
+      "text": "Fang"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/Players/Ex-Players/Mardred-Blutgard",
+      "text": "Mardred Blutgard"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/NPC/Prelate-Jinelar",
+      "text": "Prelate Jinelar"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/NPC/La-Qua",
+      "text": "La Qua"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/Players/Archibald",
+      "text": "Archibald"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/NPC/Lady-Xiao",
+      "text": "Lady Xiao"
+    },
+    {
+      "source": "/Sessions/Session-7",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Sessions/Session-8",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Sessions/Session-9",
+      "target": "/People/NPC/Minister-Rabaniar",
+      "text": "Minister Rabaniar"
+    },
+    {
+      "source": "/Sessions/Session-9",
+      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "text": "Octopus Tattoo (Cathuwu)"
+    },
+    {
+      "source": "/Sessions/Session-9",
+      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "text": "Octopus Tattoo (Cathuwu)"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-1",
+      "text": "Session 1"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-2",
+      "text": "Session 2"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-3",
+      "text": "Session 3"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-4",
+      "text": "Session 4"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-5",
+      "text": "Session 5"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-6",
+      "text": "Session 6"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-7",
+      "text": "Session 7"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-8",
+      "text": "Session 8"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-9",
+      "text": "Session 9"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-10",
+      "text": "Session 10"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-11",
+      "text": "Session 11"
+    },
+    {
+      "source": "/",
+      "target": "/Areas/index",
+      "text": "Locations"
+    },
+    {
+      "source": "/",
+      "target": "/Other/Teleportation-Locations",
+      "text": "Teleportation Locations"
+    },
+    {
+      "source": "/",
+      "target": "/Organisations/index",
+      "text": "Organisations"
+    },
+    {
+      "source": "/",
+      "target": "/Items/Index",
+      "text": "Items"
+    },
+    {
+      "source": "/",
+      "target": "/People/Index",
+      "text": "Index"
+    }
+  ]
+}
