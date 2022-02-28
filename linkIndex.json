@@ -577,8 +577,8 @@
         },
         {
           "source": "/People/Index",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         },
         {
           "source": "/People/Index",
@@ -807,9 +807,9 @@
           "text": "Myts"
         }
       ],
-      "/People/NPC/Murray-Destroyer-of-Worlds": [
+      "/People/NPC/Morie-Destroyer-of-Worlds": [
         {
-          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "source": "/People/NPC/Morie-Destroyer-of-Worlds",
           "target": "/Ghost",
           "text": "Ghost"
         }
@@ -979,6 +979,21 @@
         },
         {
           "source": "/People/Players/Qidan",
+          "target": "/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
+          "source": "/People/Players/Qidan",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/People/Players/Qidan",
           "target": "/People/NPC/Portobello-Pete",
           "text": "Portobello Pete"
         },
@@ -1077,6 +1092,48 @@
           "source": "/Sessions/Session-11",
           "target": "/Organisations/Pussy-Bandits",
           "text": "Pussy Bandits"
+        }
+      ],
+      "/Sessions/Session-12": [
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/People/Players/Qidan.md",
+          "text": "Qidan Backstory"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Elunore",
+          "text": "Elunore"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Shrash",
+          "text": "Shrash"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
         }
       ],
       "/Sessions/Session-2": [
@@ -1184,15 +1241,15 @@
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         }
       ],
       "/Sessions/Session-4": [
         {
           "source": "/Sessions/Session-4",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         },
         {
           "source": "/Sessions/Session-4",
@@ -1422,6 +1479,11 @@
         },
         {
           "source": "/location",
+          "target": "/Shrash",
+          "text": "Shrash"
+        },
+        {
+          "source": "/location",
           "target": "/Stronghold",
           "text": "Stronghold"
         },
@@ -1471,6 +1533,11 @@
           "text": "Elunore"
         },
         {
+          "source": "/Sessions/Session-12",
+          "target": "/Elunore",
+          "text": "Elunore"
+        },
+        {
           "source": "/Sessions/Session-2",
           "target": "/Elunore",
           "text": "Elunore"
@@ -1500,7 +1567,7 @@
           "text": "Ghost"
         },
         {
-          "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+          "source": "/People/NPC/Morie-Destroyer-of-Worlds",
           "target": "/Ghost",
           "text": "Ghost"
         },
@@ -1777,6 +1844,11 @@
           "text": "Octopus Tattoo (Cathuwu)"
         },
         {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
           "source": "/Sessions/Session-9",
           "target": "/Organisations/Octopus-Tattoo-Cathuwu",
           "text": "Octopus Tattoo (Cathuwu)"
@@ -1885,7 +1957,22 @@
           "text": "The Syndicate"
         },
         {
+          "source": "/People/Players/Qidan",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
           "source": "/Sessions/Session-1",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/The-Syndicate",
+          "text": "The Syndicate"
+        },
+        {
+          "source": "/Sessions/Session-12",
           "target": "/Organisations/The-Syndicate",
           "text": "The Syndicate"
         }
@@ -2254,7 +2341,17 @@
           "text": "Madame Porkus"
         },
         {
+          "source": "/People/Players/Qidan",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
           "source": "/Sessions/Session-11",
+          "target": "/People/NPC/Madame-Porkus",
+          "text": "Madame Porkus"
+        },
+        {
+          "source": "/Sessions/Session-12",
           "target": "/People/NPC/Madame-Porkus",
           "text": "Madame Porkus"
         }
@@ -2303,21 +2400,26 @@
           "text": "Minister Rabaniar"
         }
       ],
-      "/People/NPC/Murray-Destroyer-of-Worlds": [
+      "/People/NPC/Morie-Destroyer-of-Worlds": [
         {
           "source": "/People/Index",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         },
         {
           "source": "/Sessions/Session-4",
-          "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-          "text": "Murray Destroyer of Worlds"
+          "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+          "text": "Morie Destroyer of Worlds"
         }
       ],
       "/People/NPC/Percival": [
@@ -2742,6 +2844,13 @@
           "text": "Qidan"
         }
       ],
+      "/People/Players/Qidan.md": [
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/People/Players/Qidan.md",
+          "text": "Qidan Backstory"
+        }
+      ],
       "/People/Players/Winter": [
         {
           "source": "/Organisations/Cradle-Snatchers",
@@ -2863,6 +2972,18 @@
           "text": "Session 9"
         }
       ],
+      "/Shrash": [
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Shrash",
+          "text": "Shrash"
+        },
+        {
+          "source": "/location",
+          "target": "/Shrash",
+          "text": "Shrash"
+        }
+      ],
       "/Stronghold": [
         {
           "source": "/People/NPC/Pink-Panther",
@@ -2905,6 +3026,11 @@
         },
         {
           "source": "/People/NPC/Brior",
+          "target": "/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/People/Players/Qidan",
           "target": "/Thyme-Wastes",
           "text": "Thyme Wastes"
         },
@@ -3371,8 +3497,8 @@
     },
     {
       "source": "/People/Index",
-      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-      "text": "Murray Destroyer of Worlds"
+      "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+      "text": "Morie Destroyer of Worlds"
     },
     {
       "source": "/People/Index",
@@ -3575,7 +3701,7 @@
       "text": "Myts"
     },
     {
-      "source": "/People/NPC/Murray-Destroyer-of-Worlds",
+      "source": "/People/NPC/Morie-Destroyer-of-Worlds",
       "target": "/Ghost",
       "text": "Ghost"
     },
@@ -3721,6 +3847,21 @@
     },
     {
       "source": "/People/Players/Qidan",
+      "target": "/Thyme-Wastes",
+      "text": "Thyme Wastes"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/People/NPC/Madame-Porkus",
+      "text": "Madame Porkus"
+    },
+    {
+      "source": "/People/Players/Qidan",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/People/Players/Qidan",
       "target": "/People/NPC/Portobello-Pete",
       "text": "Portobello Pete"
     },
@@ -3813,6 +3954,46 @@
       "source": "/Sessions/Session-11",
       "target": "/Organisations/Pussy-Bandits",
       "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/People/Players/Qidan.md",
+      "text": "Qidan Backstory"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/Elunore",
+      "text": "Elunore"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+      "text": "Morie Destroyer of Worlds"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "text": "Octopus Tattoo (Cathuwu)"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/Organisations/The-Syndicate",
+      "text": "The Syndicate"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/Shrash",
+      "text": "Shrash"
+    },
+    {
+      "source": "/Sessions/Session-12",
+      "target": "/People/NPC/Madame-Porkus",
+      "text": "Madame Porkus"
     },
     {
       "source": "/Sessions/Session-2",
@@ -3916,13 +4097,13 @@
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-      "text": "Murray Destroyer of Worlds"
+      "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+      "text": "Morie Destroyer of Worlds"
     },
     {
       "source": "/Sessions/Session-4",
-      "target": "/People/NPC/Murray-Destroyer-of-Worlds",
-      "text": "Murray Destroyer of Worlds"
+      "target": "/People/NPC/Morie-Destroyer-of-Worlds",
+      "text": "Morie Destroyer of Worlds"
     },
     {
       "source": "/Sessions/Session-4",
@@ -4213,6 +4394,11 @@
       "source": "/location",
       "target": "/Rauthei",
       "text": "Rauthei"
+    },
+    {
+      "source": "/location",
+      "target": "/Shrash",
+      "text": "Shrash"
     },
     {
       "source": "/location",
