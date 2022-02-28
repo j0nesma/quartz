@@ -59,6 +59,11 @@
         },
         {
           "source": "/",
+          "target": "/Sessions/Session-12",
+          "text": "Session 12"
+        },
+        {
+          "source": "/",
           "target": "/location_index",
           "text": "index"
         },
@@ -2916,6 +2921,13 @@
           "text": "Session 11"
         }
       ],
+      "/Sessions/Session-12": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-12",
+          "text": "Session 12"
+        }
+      ],
       "/Sessions/Session-2": [
         {
           "source": "/",
@@ -4319,6 +4331,11 @@
       "source": "/",
       "target": "/Sessions/Session-11",
       "text": "Session 11"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-12",
+      "text": "Session 12"
     },
     {
       "source": "/",
