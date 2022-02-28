@@ -105,6 +105,13 @@
           "text": "Cradle Snatchers"
         }
       ],
+      "/Elunore": [
+        {
+          "source": "/Elunore",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        }
+      ],
       "/Ghost": [
         {
           "source": "/Ghost",
@@ -229,8 +236,8 @@
         },
         {
           "source": "/Organisations",
-          "target": "/Organisations/Granade-Users",
-          "text": "Granade Users"
+          "target": "/Organisations/Grenade-Users",
+          "text": "Grenade Users"
         },
         {
           "source": "/Organisations",
@@ -297,14 +304,14 @@
           "text": "Naberus"
         }
       ],
-      "/Organisations/Granade-Users": [
+      "/Organisations/Grenade-Users": [
         {
-          "source": "/Organisations/Granade-Users",
+          "source": "/Organisations/Grenade-Users",
           "target": "/Organisations/Cradle-Snatchers",
           "text": "Cradle Snatchers"
         },
         {
-          "source": "/Organisations/Granade-Users",
+          "source": "/Organisations/Grenade-Users",
           "target": "/People/NPC/Pigwings",
           "text": "People/NPC/Pigwings"
         }
@@ -405,11 +412,6 @@
       "/Other/Index": [
         {
           "source": "/Other/Index",
-          "target": "/Other/Memes",
-          "text": "Memes"
-        },
-        {
-          "source": "/Other/Index",
           "target": "/Other/Unknowns",
           "text": "Unknowns"
         },
@@ -417,13 +419,6 @@
           "source": "/Other/Index",
           "target": "/Other/Teleportation-Locations",
           "text": "Teleportation Locations"
-        }
-      ],
-      "/Other/Memes": [
-        {
-          "source": "/Other/Memes",
-          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
-          "text": "Geralt of Rivania"
         }
       ],
       "/Other/Teleportation-Locations": [
@@ -777,6 +772,11 @@
           "source": "/People/NPC/La-Qua",
           "target": "/People/Players/Archibald",
           "text": "Archibald"
+        },
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/Mytz",
+          "text": "Mytz"
         }
       ],
       "/People/NPC/Lady-Xiao": [
@@ -898,8 +898,8 @@
       "/People/Players/Ex-Players/Batflap": [
         {
           "source": "/People/Players/Ex-Players/Batflap",
-          "target": "/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
+          "target": "/Tavern-of-Forever",
+          "text": "Tavern of Forever"
         }
       ],
       "/People/Players/Ex-Players/Ellianas": [
@@ -1006,6 +1006,13 @@
           "source": "/People/Players/Qidan",
           "target": "/People/NPC/Saraki",
           "text": "Saraki"
+        }
+      ],
+      "/People/Players/Winter": [
+        {
+          "source": "/People/Players/Winter",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
         }
       ],
       "/Sessions/Session-1": [
@@ -1421,7 +1428,17 @@
         {
           "source": "/Stronghold",
           "target": "/People/NPC/Cosine",
-          "text": "People/NPC/Cosine"
+          "text": "Cosine"
+        },
+        {
+          "source": "/Stronghold",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Stronghold",
+          "target": "/People/NPC/Blossom",
+          "text": "Blossom"
         }
       ],
       "/Thyme-Wastes": [
@@ -1434,8 +1451,8 @@
       "/location": [
         {
           "source": "/location",
-          "target": "/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
+          "target": "/Tavern-of-Forever",
+          "text": "Tavern of Forever"
         },
         {
           "source": "/location",
@@ -1759,6 +1776,13 @@
           "text": "Myts"
         }
       ],
+      "/Mytz": [
+        {
+          "source": "/People/NPC/La-Qua",
+          "target": "/Mytz",
+          "text": "Mytz"
+        }
+      ],
       "/Ofheise": [
         {
           "source": "/Other/Teleportation-Locations",
@@ -1810,7 +1834,7 @@
           "text": "Cradle Snatchers"
         },
         {
-          "source": "/Organisations/Granade-Users",
+          "source": "/Organisations/Grenade-Users",
           "target": "/Organisations/Cradle-Snatchers",
           "text": "Cradle Snatchers"
         },
@@ -1835,16 +1859,21 @@
           "text": "Cradle Snatchers"
         }
       ],
-      "/Organisations/Granade-Users": [
+      "/Organisations/Grenade-Users": [
         {
           "source": "/Organisations",
-          "target": "/Organisations/Granade-Users",
-          "text": "Granade Users"
+          "target": "/Organisations/Grenade-Users",
+          "text": "Grenade Users"
         }
       ],
       "/Organisations/Octopus-Tattoo-Cathuwu": [
         {
           "source": "/Organisations",
+          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "text": "Octopus Tattoo (Cathuwu)"
+        },
+        {
+          "source": "/People/Players/Winter",
           "target": "/Organisations/Octopus-Tattoo-Cathuwu",
           "text": "Octopus Tattoo (Cathuwu)"
         },
@@ -1996,13 +2025,6 @@
           "text": "Organisations"
         }
       ],
-      "/Other/Memes": [
-        {
-          "source": "/Other/Index",
-          "target": "/Other/Memes",
-          "text": "Memes"
-        }
-      ],
       "/Other/Teleportation-Locations": [
         {
           "source": "/Other/Index",
@@ -2106,6 +2128,11 @@
           "source": "/People/Index",
           "target": "/People/NPC/Blossom",
           "text": "Blossom"
+        },
+        {
+          "source": "/Stronghold",
+          "target": "/People/NPC/Blossom",
+          "text": "Blossom"
         }
       ],
       "/People/NPC/Breeze": [
@@ -2131,6 +2158,11 @@
         },
         {
           "source": "/Sessions/Session-7",
+          "target": "/People/NPC/Breeze",
+          "text": "Breeze"
+        },
+        {
+          "source": "/Stronghold",
           "target": "/People/NPC/Breeze",
           "text": "Breeze"
         }
@@ -2195,7 +2227,7 @@
         {
           "source": "/Stronghold",
           "target": "/People/NPC/Cosine",
-          "text": "People/NPC/Cosine"
+          "text": "Cosine"
         }
       ],
       "/People/NPC/Du-Pontifs": [
@@ -2458,7 +2490,7 @@
       ],
       "/People/NPC/Pigwings": [
         {
-          "source": "/Organisations/Granade-Users",
+          "source": "/Organisations/Grenade-Users",
           "target": "/People/NPC/Pigwings",
           "text": "People/NPC/Pigwings"
         }
@@ -2716,11 +2748,6 @@
           "text": "Geralt of Rivania"
         },
         {
-          "source": "/Other/Memes",
-          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
-          "text": "Geralt of Rivania"
-        },
-        {
           "source": "/People/Index",
           "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
           "text": "Geralt of Rivania"
@@ -2769,6 +2796,11 @@
         }
       ],
       "/People/Players/Ex-Players/Naberus": [
+        {
+          "source": "/Elunore",
+          "target": "/People/Players/Ex-Players/Naberus",
+          "text": "Naberus"
+        },
         {
           "source": "/Items/Dominus-Oraculum",
           "target": "/People/Players/Ex-Players/Naberus",
@@ -3013,16 +3045,16 @@
           "text": "Stronghold"
         }
       ],
-      "/Tarvern-of-Forever": [
+      "/Tavern-of-Forever": [
         {
           "source": "/People/Players/Ex-Players/Batflap",
-          "target": "/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
+          "target": "/Tavern-of-Forever",
+          "text": "Tavern of Forever"
         },
         {
           "source": "/location",
-          "target": "/Tarvern-of-Forever",
-          "text": "Tarvern of Forever"
+          "target": "/Tavern-of-Forever",
+          "text": "Tavern of Forever"
         }
       ],
       "/Thyme-Wastes": [
@@ -3076,6 +3108,11 @@
       "source": "/Cradle",
       "target": "/Organisations/Cradle-Snatchers",
       "text": "Cradle Snatchers"
+    },
+    {
+      "source": "/Elunore",
+      "target": "/People/Players/Ex-Players/Naberus",
+      "text": "Naberus"
     },
     {
       "source": "/Ghost",
@@ -3203,12 +3240,12 @@
       "text": "Naberus"
     },
     {
-      "source": "/Organisations/Granade-Users",
+      "source": "/Organisations/Grenade-Users",
       "target": "/Organisations/Cradle-Snatchers",
       "text": "Cradle Snatchers"
     },
     {
-      "source": "/Organisations/Granade-Users",
+      "source": "/Organisations/Grenade-Users",
       "target": "/People/NPC/Pigwings",
       "text": "People/NPC/Pigwings"
     },
@@ -3334,18 +3371,13 @@
     },
     {
       "source": "/Organisations",
-      "target": "/Organisations/Granade-Users",
-      "text": "Granade Users"
+      "target": "/Organisations/Grenade-Users",
+      "text": "Grenade Users"
     },
     {
       "source": "/Organisations",
       "target": "/Organisations/Zentarum",
       "text": "Zentarum"
-    },
-    {
-      "source": "/Other/Index",
-      "target": "/Other/Memes",
-      "text": "Memes"
     },
     {
       "source": "/Other/Index",
@@ -3356,11 +3388,6 @@
       "source": "/Other/Index",
       "target": "/Other/Teleportation-Locations",
       "text": "Teleportation Locations"
-    },
-    {
-      "source": "/Other/Memes",
-      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
-      "text": "Geralt of Rivania"
     },
     {
       "source": "/Other/Teleportation-Locations",
@@ -3688,6 +3715,11 @@
       "text": "Archibald"
     },
     {
+      "source": "/People/NPC/La-Qua",
+      "target": "/Mytz",
+      "text": "Mytz"
+    },
+    {
       "source": "/People/NPC/Lady-Xiao",
       "target": "/Organisations/The-Syndicate",
       "text": "The Syndicate"
@@ -3779,8 +3811,8 @@
     },
     {
       "source": "/People/Players/Ex-Players/Batflap",
-      "target": "/Tarvern-of-Forever",
-      "text": "Tarvern of Forever"
+      "target": "/Tavern-of-Forever",
+      "text": "Tavern of Forever"
     },
     {
       "source": "/People/Players/Ex-Players/Ellianas",
@@ -3881,6 +3913,11 @@
       "source": "/People/Players/Qidan",
       "target": "/People/NPC/Saraki",
       "text": "Saraki"
+    },
+    {
+      "source": "/People/Players/Winter",
+      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
+      "text": "Octopus Tattoo (Cathuwu)"
     },
     {
       "source": "/Sessions/Session-1",
@@ -4270,7 +4307,17 @@
     {
       "source": "/Stronghold",
       "target": "/People/NPC/Cosine",
-      "text": "People/NPC/Cosine"
+      "text": "Cosine"
+    },
+    {
+      "source": "/Stronghold",
+      "target": "/People/NPC/Breeze",
+      "text": "Breeze"
+    },
+    {
+      "source": "/Stronghold",
+      "target": "/People/NPC/Blossom",
+      "text": "Blossom"
     },
     {
       "source": "/Thyme-Wastes",
@@ -4364,8 +4411,8 @@
     },
     {
       "source": "/location",
-      "target": "/Tarvern-of-Forever",
-      "text": "Tarvern of Forever"
+      "target": "/Tavern-of-Forever",
+      "text": "Tavern of Forever"
     },
     {
       "source": "/location",
