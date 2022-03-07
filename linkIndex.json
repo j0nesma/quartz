@@ -64,6 +64,11 @@
         },
         {
           "source": "/",
+          "target": "/Sessions/Session-13",
+          "text": "Session 13"
+        },
+        {
+          "source": "/",
           "target": "/location_index",
           "text": "index"
         },
@@ -226,8 +231,8 @@
         },
         {
           "source": "/Organisations",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
         },
         {
           "source": "/Organisations",
@@ -255,6 +260,23 @@
           "source": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
           "target": "/People/NPC/Prelate-Jinelar",
           "text": "Prelate Jinelar"
+        }
+      ],
+      "/Organisations/Cathuwu": [
+        {
+          "source": "/Organisations/Cathuwu",
+          "target": "/Innadel",
+          "text": "Innadel"
+        },
+        {
+          "source": "/Organisations/Cathuwu",
+          "target": "/People/Players/Winter",
+          "text": "Winter"
+        },
+        {
+          "source": "/Organisations/Cathuwu",
+          "target": "/Innadel",
+          "text": "Innadel"
         }
       ],
       "/Organisations/Cradle-Snatchers": [
@@ -316,23 +338,6 @@
           "text": "People/NPC/Pigwings"
         }
       ],
-      "/Organisations/Octopus-Tattoo-Cathuwu": [
-        {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Innadel",
-          "text": "Innadel"
-        },
-        {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/People/Players/Winter",
-          "text": "Winter"
-        },
-        {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "target": "/Innadel",
-          "text": "Innadel"
-        }
-      ],
       "/Organisations/Pussy-Bandits": [
         {
           "source": "/Organisations/Pussy-Bandits",
@@ -360,8 +365,8 @@
       "/Organisations/The-Syndicate": [
         {
           "source": "/Organisations/The-Syndicate",
-          "target": "/Lady-Ravana",
-          "text": "Lady Ravana"
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "People/Gods/Lady Ravanna"
         },
         {
           "source": "/Organisations/The-Syndicate",
@@ -450,9 +455,9 @@
           "text": "Innadel"
         }
       ],
-      "/People/Gods/Lady-Ravana": [
+      "/People/Gods/Lady-Ravanna": [
         {
-          "source": "/People/Gods/Lady-Ravana",
+          "source": "/People/Gods/Lady-Ravanna",
           "target": "/Organisations/The-Syndicate",
           "text": "The Syndicate"
         }
@@ -477,8 +482,8 @@
         },
         {
           "source": "/People/Index",
-          "target": "/People/Gods/Lady-Ravana",
-          "text": "Lady Ravana"
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "Lady Ravanna"
         },
         {
           "source": "/People/Index",
@@ -1011,8 +1016,8 @@
       "/People/Players/Winter": [
         {
           "source": "/People/Players/Winter",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
         }
       ],
       "/Sessions/Session-1": [
@@ -1129,8 +1134,8 @@
         },
         {
           "source": "/Sessions/Session-12",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
         },
         {
           "source": "/Sessions/Session-12",
@@ -1146,6 +1151,38 @@
           "source": "/Sessions/Session-12",
           "target": "/People/NPC/Madame-Porkus",
           "text": "Madame Porkus"
+        }
+      ],
+      "/Sessions/Session-13": [
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/Organisations/Zentarum",
+          "text": "Zentarum"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/People/Gods/Mardred-Blutgard-God",
+          "text": "Mardred Blutgard, God"
         }
       ],
       "/Sessions/Session-2": [
@@ -1228,8 +1265,8 @@
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/People/Gods/Lady-Ravana",
-          "text": "Lady Ravana"
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "Lady Ravanna"
         },
         {
           "source": "/Sessions/Session-3",
@@ -1380,13 +1417,13 @@
         },
         {
           "source": "/Sessions/Session-9",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
         },
         {
           "source": "/Sessions/Session-9",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
         }
       ],
       "/Stronghold": [
@@ -1625,12 +1662,12 @@
       ],
       "/Innadel": [
         {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "source": "/Organisations/Cathuwu",
           "target": "/Innadel",
           "text": "Innadel"
         },
         {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "source": "/Organisations/Cathuwu",
           "target": "/Innadel",
           "text": "Innadel"
         },
@@ -1728,13 +1765,6 @@
           "text": "Malice"
         }
       ],
-      "/Lady-Ravana": [
-        {
-          "source": "/Organisations/The-Syndicate",
-          "target": "/Lady-Ravana",
-          "text": "Lady Ravana"
-        }
-      ],
       "/Leradel": [
         {
           "source": "/Sessions/Session-1",
@@ -1827,6 +1857,38 @@
           "text": "Brotherhood of the Resplendent Skin"
         }
       ],
+      "/Organisations/Cathuwu": [
+        {
+          "source": "/Organisations",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/People/Players/Winter",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-12",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-9",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        }
+      ],
       "/Organisations/Cradle-Snatchers": [
         {
           "source": "/Cradle",
@@ -1864,33 +1926,6 @@
           "source": "/Organisations",
           "target": "/Organisations/Grenade-Users",
           "text": "Grenade Users"
-        }
-      ],
-      "/Organisations/Octopus-Tattoo-Cathuwu": [
-        {
-          "source": "/Organisations",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
-        },
-        {
-          "source": "/People/Players/Winter",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
-        },
-        {
-          "source": "/Sessions/Session-12",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
-        },
-        {
-          "source": "/Sessions/Session-9",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
-        },
-        {
-          "source": "/Sessions/Session-9",
-          "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-          "text": "Octopus Tattoo (Cathuwu)"
         }
       ],
       "/Organisations/Order-of-the-Blue-Boar": [
@@ -1961,7 +1996,7 @@
           "text": "The Syndicate"
         },
         {
-          "source": "/People/Gods/Lady-Ravana",
+          "source": "/People/Gods/Lady-Ravanna",
           "target": "/Organisations/The-Syndicate",
           "text": "The Syndicate"
         },
@@ -2014,6 +2049,11 @@
       "/Organisations/Zentarum": [
         {
           "source": "/Organisations",
+          "target": "/Organisations/Zentarum",
+          "text": "Zentarum"
+        },
+        {
+          "source": "/Sessions/Session-13",
           "target": "/Organisations/Zentarum",
           "text": "Zentarum"
         }
@@ -2073,16 +2113,21 @@
           "text": "Hoar"
         }
       ],
-      "/People/Gods/Lady-Ravana": [
+      "/People/Gods/Lady-Ravanna": [
+        {
+          "source": "/Organisations/The-Syndicate",
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "People/Gods/Lady Ravanna"
+        },
         {
           "source": "/People/Index",
-          "target": "/People/Gods/Lady-Ravana",
-          "text": "Lady Ravana"
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "Lady Ravanna"
         },
         {
           "source": "/Sessions/Session-3",
-          "target": "/People/Gods/Lady-Ravana",
-          "text": "Lady Ravana"
+          "target": "/People/Gods/Lady-Ravanna",
+          "text": "Lady Ravanna"
         }
       ],
       "/People/Gods/Lathander": [
@@ -2112,6 +2157,11 @@
       "/People/Gods/Mardred-Blutgard-God": [
         {
           "source": "/People/Index",
+          "target": "/People/Gods/Mardred-Blutgard-God",
+          "text": "Mardred Blutgard, God"
+        },
+        {
+          "source": "/Sessions/Session-13",
           "target": "/People/Gods/Mardred-Blutgard-God",
           "text": "Mardred Blutgard, God"
         }
@@ -2182,6 +2232,11 @@
           "source": "/Sessions/Session-11",
           "target": "/People/NPC/Brior",
           "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-13",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
         }
       ],
       "/People/NPC/Canus": [
@@ -2209,6 +2264,11 @@
         },
         {
           "source": "/People/NPC/Merryweather",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-13",
           "target": "/People/NPC/Corellien",
           "text": "Corellien"
         },
@@ -2763,6 +2823,11 @@
           "text": "Geralt of Rivania"
         },
         {
+          "source": "/Sessions/Session-13",
+          "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+          "text": "Geralt of Rivania"
+        },
+        {
           "source": "/Stronghold",
           "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
           "text": "Geralt of Rivania"
@@ -2890,12 +2955,12 @@
       ],
       "/People/Players/Winter": [
         {
-          "source": "/Organisations/Cradle-Snatchers",
+          "source": "/Organisations/Cathuwu",
           "target": "/People/Players/Winter",
           "text": "Winter"
         },
         {
-          "source": "/Organisations/Octopus-Tattoo-Cathuwu",
+          "source": "/Organisations/Cradle-Snatchers",
           "target": "/People/Players/Winter",
           "text": "Winter"
         },
@@ -2958,6 +3023,13 @@
           "source": "/",
           "target": "/Sessions/Session-12",
           "text": "Session 12"
+        }
+      ],
+      "/Sessions/Session-13": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-13",
+          "text": "Session 13"
         }
       ],
       "/Sessions/Session-2": [
@@ -3195,6 +3267,21 @@
       "text": "Prelate Jinelar"
     },
     {
+      "source": "/Organisations/Cathuwu",
+      "target": "/Innadel",
+      "text": "Innadel"
+    },
+    {
+      "source": "/Organisations/Cathuwu",
+      "target": "/People/Players/Winter",
+      "text": "Winter"
+    },
+    {
+      "source": "/Organisations/Cathuwu",
+      "target": "/Innadel",
+      "text": "Innadel"
+    },
+    {
       "source": "/Organisations/Cradle-Snatchers",
       "target": "/People/Players/Qidan",
       "text": "Qidan"
@@ -3250,21 +3337,6 @@
       "text": "People/NPC/Pigwings"
     },
     {
-      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "target": "/Innadel",
-      "text": "Innadel"
-    },
-    {
-      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "target": "/People/Players/Winter",
-      "text": "Winter"
-    },
-    {
-      "source": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "target": "/Innadel",
-      "text": "Innadel"
-    },
-    {
       "source": "/Organisations/Pussy-Bandits",
       "target": "/Thyme-Wastes",
       "text": "Thyme Wastes"
@@ -3286,8 +3358,8 @@
     },
     {
       "source": "/Organisations/The-Syndicate",
-      "target": "/Lady-Ravana",
-      "text": "Lady Ravana"
+      "target": "/People/Gods/Lady-Ravanna",
+      "text": "People/Gods/Lady Ravanna"
     },
     {
       "source": "/Organisations/The-Syndicate",
@@ -3361,8 +3433,8 @@
     },
     {
       "source": "/Organisations",
-      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "text": "Octopus Tattoo (Cathuwu)"
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
     },
     {
       "source": "/Organisations",
@@ -3415,7 +3487,7 @@
       "text": "Innadel"
     },
     {
-      "source": "/People/Gods/Lady-Ravana",
+      "source": "/People/Gods/Lady-Ravanna",
       "target": "/Organisations/The-Syndicate",
       "text": "The Syndicate"
     },
@@ -3436,8 +3508,8 @@
     },
     {
       "source": "/People/Index",
-      "target": "/People/Gods/Lady-Ravana",
-      "text": "Lady Ravana"
+      "target": "/People/Gods/Lady-Ravanna",
+      "text": "Lady Ravanna"
     },
     {
       "source": "/People/Index",
@@ -3916,8 +3988,8 @@
     },
     {
       "source": "/People/Players/Winter",
-      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "text": "Octopus Tattoo (Cathuwu)"
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
     },
     {
       "source": "/Sessions/Session-1",
@@ -4026,8 +4098,8 @@
     },
     {
       "source": "/Sessions/Session-12",
-      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "text": "Octopus Tattoo (Cathuwu)"
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
     },
     {
       "source": "/Sessions/Session-12",
@@ -4043,6 +4115,36 @@
       "source": "/Sessions/Session-12",
       "target": "/People/NPC/Madame-Porkus",
       "text": "Madame Porkus"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/People/NPC/Brior",
+      "text": "Brior"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/Organisations/Zentarum",
+      "text": "Zentarum"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/People/Players/Ex-Players/Geralt-of-Rivania",
+      "text": "Geralt of Rivania"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
+    },
+    {
+      "source": "/Sessions/Session-13",
+      "target": "/People/Gods/Mardred-Blutgard-God",
+      "text": "Mardred Blutgard, God"
     },
     {
       "source": "/Sessions/Session-2",
@@ -4121,8 +4223,8 @@
     },
     {
       "source": "/Sessions/Session-3",
-      "target": "/People/Gods/Lady-Ravana",
-      "text": "Lady Ravana"
+      "target": "/People/Gods/Lady-Ravanna",
+      "text": "Lady Ravanna"
     },
     {
       "source": "/Sessions/Session-3",
@@ -4261,13 +4363,13 @@
     },
     {
       "source": "/Sessions/Session-9",
-      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "text": "Octopus Tattoo (Cathuwu)"
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
     },
     {
       "source": "/Sessions/Session-9",
-      "target": "/Organisations/Octopus-Tattoo-Cathuwu",
-      "text": "Octopus Tattoo (Cathuwu)"
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
     },
     {
       "source": "/Stronghold",
@@ -4383,6 +4485,11 @@
       "source": "/",
       "target": "/Sessions/Session-12",
       "text": "Session 12"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-13",
+      "text": "Session 13"
     },
     {
       "source": "/",
