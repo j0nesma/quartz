@@ -69,6 +69,11 @@
         },
         {
           "source": "/",
+          "target": "/Sessions/Session-14",
+          "text": "Session 14"
+        },
+        {
+          "source": "/",
           "target": "/location_index",
           "text": "index"
         },
@@ -1185,6 +1190,33 @@
           "text": "Mardred Blutgard, God"
         }
       ],
+      "/Sessions/Session-14": [
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/Indel",
+          "text": "Indel"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
+        }
+      ],
       "/Sessions/Session-2": [
         {
           "source": "/Sessions/Session-2",
@@ -1655,6 +1687,11 @@
           "text": "Indel"
         },
         {
+          "source": "/Sessions/Session-14",
+          "target": "/Indel",
+          "text": "Indel"
+        },
+        {
           "source": "/location",
           "target": "/Indel",
           "text": "Indel"
@@ -1960,6 +1997,11 @@
           "source": "/Sessions/Session-11",
           "target": "/Organisations/Pussy-Bandits",
           "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
         }
       ],
       "/Organisations/The-Joy-Family": [
@@ -2237,6 +2279,11 @@
           "source": "/Sessions/Session-13",
           "target": "/People/NPC/Brior",
           "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-14",
+          "target": "/People/NPC/Brior",
+          "text": "Brior"
         }
       ],
       "/People/NPC/Canus": [
@@ -2269,6 +2316,11 @@
         },
         {
           "source": "/Sessions/Session-13",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-14",
           "target": "/People/NPC/Corellien",
           "text": "Corellien"
         },
@@ -3032,6 +3084,13 @@
           "text": "Session 13"
         }
       ],
+      "/Sessions/Session-14": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-14",
+          "text": "Session 14"
+        }
+      ],
       "/Sessions/Session-2": [
         {
           "source": "/",
@@ -3147,6 +3206,11 @@
         },
         {
           "source": "/People/Players/Qidan",
+          "target": "/Thyme-Wastes",
+          "text": "Thyme Wastes"
+        },
+        {
+          "source": "/Sessions/Session-14",
           "target": "/Thyme-Wastes",
           "text": "Thyme Wastes"
         },
@@ -4147,6 +4211,31 @@
       "text": "Mardred Blutgard, God"
     },
     {
+      "source": "/Sessions/Session-14",
+      "target": "/Indel",
+      "text": "Indel"
+    },
+    {
+      "source": "/Sessions/Session-14",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/Sessions/Session-14",
+      "target": "/Thyme-Wastes",
+      "text": "Thyme Wastes"
+    },
+    {
+      "source": "/Sessions/Session-14",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Sessions/Session-14",
+      "target": "/People/NPC/Brior",
+      "text": "Brior"
+    },
+    {
       "source": "/Sessions/Session-2",
       "target": "/Innadel.md",
       "text": "Badger Hill"
@@ -4490,6 +4579,11 @@
       "source": "/",
       "target": "/Sessions/Session-13",
       "text": "Session 13"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-14",
+      "text": "Session 14"
     },
     {
       "source": "/",
