@@ -74,6 +74,11 @@
         },
         {
           "source": "/",
+          "target": "/Sessions/Session-15",
+          "text": "Session 15"
+        },
+        {
+          "source": "/",
           "target": "/location_index",
           "text": "index"
         },
@@ -1217,6 +1222,28 @@
           "text": "Brior"
         }
       ],
+      "/Sessions/Session-15": [
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/People/NPC/Brior",
+          "text": "Brior's"
+        },
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/Session-3",
+          "text": "Session 3"
+        }
+      ],
       "/Sessions/Session-2": [
         {
           "source": "/Sessions/Session-2",
@@ -1773,6 +1800,11 @@
           "text": "Dominus Oraculum"
         },
         {
+          "source": "/Sessions/Session-15",
+          "target": "/Items/Dominus-Oraculum",
+          "text": "Dominus Oraculum"
+        },
+        {
           "source": "/Sessions/Session-2",
           "target": "/Items/Dominus-Oraculum",
           "text": "Dominus Oraculum"
@@ -2000,6 +2032,11 @@
         },
         {
           "source": "/Sessions/Session-14",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-15",
           "target": "/Organisations/Pussy-Bandits",
           "text": "Pussy Bandits"
         }
@@ -2284,6 +2321,11 @@
           "source": "/Sessions/Session-14",
           "target": "/People/NPC/Brior",
           "text": "Brior"
+        },
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/People/NPC/Brior",
+          "text": "Brior's"
         }
       ],
       "/People/NPC/Canus": [
@@ -3049,6 +3091,13 @@
           "text": "Rauthei"
         }
       ],
+      "/Session-3": [
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/Session-3",
+          "text": "Session 3"
+        }
+      ],
       "/Sessions/Session-1": [
         {
           "source": "/",
@@ -3089,6 +3138,13 @@
           "source": "/",
           "target": "/Sessions/Session-14",
           "text": "Session 14"
+        }
+      ],
+      "/Sessions/Session-15": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-15",
+          "text": "Session 15"
         }
       ],
       "/Sessions/Session-2": [
@@ -4236,6 +4292,26 @@
       "text": "Brior"
     },
     {
+      "source": "/Sessions/Session-15",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
+    },
+    {
+      "source": "/Sessions/Session-15",
+      "target": "/People/NPC/Brior",
+      "text": "Brior's"
+    },
+    {
+      "source": "/Sessions/Session-15",
+      "target": "/Items/Dominus-Oraculum",
+      "text": "Dominus Oraculum"
+    },
+    {
+      "source": "/Sessions/Session-15",
+      "target": "/Session-3",
+      "text": "Session 3"
+    },
+    {
       "source": "/Sessions/Session-2",
       "target": "/Innadel.md",
       "text": "Badger Hill"
@@ -4584,6 +4660,11 @@
       "source": "/",
       "target": "/Sessions/Session-14",
       "text": "Session 14"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-15",
+      "text": "Session 15"
     },
     {
       "source": "/",
