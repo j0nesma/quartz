@@ -1240,7 +1240,7 @@
         },
         {
           "source": "/Sessions/Session-15",
-          "target": "/Session-3",
+          "target": "/Sessions/Session-3",
           "text": "Session 3"
         }
       ],
@@ -3091,13 +3091,6 @@
           "text": "Rauthei"
         }
       ],
-      "/Session-3": [
-        {
-          "source": "/Sessions/Session-15",
-          "target": "/Session-3",
-          "text": "Session 3"
-        }
-      ],
       "/Sessions/Session-1": [
         {
           "source": "/",
@@ -3155,6 +3148,11 @@
         }
       ],
       "/Sessions/Session-3": [
+        {
+          "source": "/Sessions/Session-15",
+          "target": "/Sessions/Session-3",
+          "text": "Session 3"
+        },
         {
           "source": "/",
           "target": "/Sessions/Session-3",
@@ -4308,7 +4306,7 @@
     },
     {
       "source": "/Sessions/Session-15",
-      "target": "/Session-3",
+      "target": "/Sessions/Session-3",
       "text": "Session 3"
     },
     {
