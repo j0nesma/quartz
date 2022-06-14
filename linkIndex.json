@@ -84,6 +84,11 @@
         },
         {
           "source": "/",
+          "target": "/Sessions/Session-17-21",
+          "text": "Sessions/Session 17 - 21"
+        },
+        {
+          "source": "/",
           "target": "/location_index",
           "text": "index"
         },
@@ -142,6 +147,13 @@
           "source": "/Ghost",
           "target": "/People/NPC/Du-Pontifs",
           "text": "Du Pontif's"
+        }
+      ],
+      "/Grand-Duchy-of-Neforia": [
+        {
+          "source": "/Grand-Duchy-of-Neforia",
+          "target": "/Sessions/Session-20",
+          "text": "Session 20"
         }
       ],
       "/Indel": [
@@ -889,6 +901,13 @@
           "text": "Cradle"
         }
       ],
+      "/People/NPC/Sooki": [
+        {
+          "source": "/People/NPC/Sooki",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        }
+      ],
       "/People/NPC/The-Marquis": [
         {
           "source": "/People/NPC/The-Marquis",
@@ -1247,6 +1266,83 @@
           "source": "/Sessions/Session-15",
           "target": "/Sessions/Session-3",
           "text": "Session 3"
+        }
+      ],
+      "/Sessions/Session-17-21": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Mozdot",
+          "text": "Mozdot"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "text": "Brotherhood of the Resplendent Skin"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/Gods/Adflictium",
+          "text": "Adflictium"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/Players/Ex-Players/Wayne",
+          "text": "Wayne"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Senishal-Trigres",
+          "text": "Senishal Trigres"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Sooki",
+          "text": "Sooki"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Sooki",
+          "text": "Sooki"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
         }
       ],
       "/Sessions/Session-2": [
@@ -1712,6 +1808,23 @@
           "text": "Bathumhold"
         }
       ],
+      "/Grand-Duchy-of-Neforia": [
+        {
+          "source": "/People/NPC/Sooki",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Grand-Duchy-of-Neforia",
+          "text": "Grand Duchy of Neforia"
+        }
+      ],
       "/Indel": [
         {
           "source": "/Sessions/Session-11",
@@ -1904,6 +2017,16 @@
           "text": "Ofheise"
         },
         {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Ofheise",
+          "text": "Ofheise"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Ofheise",
+          "text": "Ofheise"
+        },
+        {
           "source": "/Sessions/Session-3",
           "target": "/Ofheise",
           "text": "Ofheise"
@@ -1929,6 +2052,11 @@
           "source": "/Organisations",
           "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
           "text": "Brotherhood of the Resplendent Skin"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+          "text": "Brotherhood of the Resplendent Skin"
         }
       ],
       "/Organisations/Cathuwu": [
@@ -1949,6 +2077,11 @@
         },
         {
           "source": "/Sessions/Session-13",
+          "target": "/Organisations/Cathuwu",
+          "text": "Cathuwu"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
           "target": "/Organisations/Cathuwu",
           "text": "Cathuwu"
         },
@@ -2042,6 +2175,11 @@
         },
         {
           "source": "/Sessions/Session-15",
+          "target": "/Organisations/Pussy-Bandits",
+          "text": "Pussy Bandits"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
           "target": "/Organisations/Pussy-Bandits",
           "text": "Pussy Bandits"
         }
@@ -2166,6 +2304,13 @@
           "source": "/Other/Index",
           "target": "/Other/Unknowns",
           "text": "Unknowns"
+        }
+      ],
+      "/People/Gods/Adflictium": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/Gods/Adflictium",
+          "text": "Adflictium"
         }
       ],
       "/People/Gods/Eldath": [
@@ -2368,6 +2513,11 @@
         },
         {
           "source": "/Sessions/Session-14",
+          "target": "/People/NPC/Corellien",
+          "text": "Corellien"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
           "target": "/People/NPC/Corellien",
           "text": "Corellien"
         },
@@ -2618,6 +2768,13 @@
           "text": "Morie Destroyer of Worlds"
         }
       ],
+      "/People/NPC/Mozdot": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Mozdot",
+          "text": "Mozdot"
+        }
+      ],
       "/People/NPC/Percival": [
         {
           "source": "/Innadel",
@@ -2685,6 +2842,11 @@
           "text": "Prelate Jinelar"
         },
         {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Prelate-Jinelar",
+          "text": "Prelate Jinelar"
+        },
+        {
           "source": "/Sessions/Session-7",
           "target": "/People/NPC/Prelate-Jinelar",
           "text": "Prelate Jinelar"
@@ -2739,6 +2901,18 @@
           "source": "/People/Players/Qidan",
           "target": "/People/NPC/Saraki",
           "text": "Saraki"
+        }
+      ],
+      "/People/NPC/Sooki": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Sooki",
+          "text": "Sooki"
+        },
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/NPC/Sooki",
+          "text": "Sooki"
         }
       ],
       "/People/NPC/The-Marquis": [
@@ -3018,6 +3192,13 @@
           "text": "Sigma"
         }
       ],
+      "/People/Players/Ex-Players/Wayne": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/People/Players/Ex-Players/Wayne",
+          "text": "Wayne"
+        }
+      ],
       "/People/Players/Qidan": [
         {
           "source": "/Organisations/Cradle-Snatchers",
@@ -3096,6 +3277,13 @@
           "text": "Rauthei"
         }
       ],
+      "/Senishal-Trigres": [
+        {
+          "source": "/Sessions/Session-17-21",
+          "target": "/Senishal-Trigres",
+          "text": "Senishal Trigres"
+        }
+      ],
       "/Sessions/Session-1": [
         {
           "source": "/",
@@ -3152,11 +3340,25 @@
           "text": "Session 16"
         }
       ],
+      "/Sessions/Session-17-21": [
+        {
+          "source": "/",
+          "target": "/Sessions/Session-17-21",
+          "text": "Sessions/Session 17 - 21"
+        }
+      ],
       "/Sessions/Session-2": [
         {
           "source": "/",
           "target": "/Sessions/Session-2",
           "text": "Session 2"
+        }
+      ],
+      "/Sessions/Session-20": [
+        {
+          "source": "/Grand-Duchy-of-Neforia",
+          "target": "/Sessions/Session-20",
+          "text": "Session 20"
         }
       ],
       "/Sessions/Session-3": [
@@ -3325,6 +3527,11 @@
       "source": "/Ghost",
       "target": "/People/NPC/Du-Pontifs",
       "text": "Du Pontif's"
+    },
+    {
+      "source": "/Grand-Duchy-of-Neforia",
+      "target": "/Sessions/Session-20",
+      "text": "Session 20"
     },
     {
       "source": "/Indel",
@@ -3992,6 +4199,11 @@
       "text": "Cradle"
     },
     {
+      "source": "/People/NPC/Sooki",
+      "target": "/Grand-Duchy-of-Neforia",
+      "text": "Grand Duchy of Neforia"
+    },
+    {
       "source": "/People/NPC/The-Marquis",
       "target": "/Organisations/The-Syndicate",
       "text": "The Syndicate"
@@ -4320,6 +4532,81 @@
       "source": "/Sessions/Session-15",
       "target": "/Sessions/Session-3",
       "text": "Session 3"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/NPC/Mozdot",
+      "text": "Mozdot"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/NPC/Prelate-Jinelar",
+      "text": "Prelate Jinelar"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Organisations/Brotherhood-of-the-Resplendent-Skin",
+      "text": "Brotherhood of the Resplendent Skin"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/Gods/Adflictium",
+      "text": "Adflictium"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/NPC/Corellien",
+      "text": "Corellien"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/Players/Ex-Players/Wayne",
+      "text": "Wayne"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Organisations/Cathuwu",
+      "text": "Cathuwu"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Senishal-Trigres",
+      "text": "Senishal Trigres"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Ofheise",
+      "text": "Ofheise"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Grand-Duchy-of-Neforia",
+      "text": "Grand Duchy of Neforia"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Grand-Duchy-of-Neforia",
+      "text": "Grand Duchy of Neforia"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/NPC/Sooki",
+      "text": "Sooki"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/People/NPC/Sooki",
+      "text": "Sooki"
+    },
+    {
+      "source": "/Sessions/Session-17-21",
+      "target": "/Organisations/Pussy-Bandits",
+      "text": "Pussy Bandits"
     },
     {
       "source": "/Sessions/Session-2",
@@ -4680,6 +4967,11 @@
       "source": "/",
       "target": "/Sessions/Session-16",
       "text": "Session 16"
+    },
+    {
+      "source": "/",
+      "target": "/Sessions/Session-17-21",
+      "text": "Sessions/Session 17 - 21"
     },
     {
       "source": "/",
